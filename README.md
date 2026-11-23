@@ -1,5 +1,5 @@
 # Term-Translation-with-an-LLM
-This repository contains the code and data for Portfolio Task 3, an experiment in term translation with a large language model. It tests whether the wording of a prompt changes how accurately a locally run model translates legal terminology from Chinese into English, using the three prompts set out by Kostikova et al. (2023).
+This repository contains the code and data for Portfolio Task 3, an experiment in term translation with a large language model. It tests whether the wording of a prompt changes how accurately a locally run model translates legal terminology from Chinese into English, using the three prompts set out by Kostikova et al. (2024).
 
 The model is Gemma 4 12B Instruct (QAT), run on a personal computer through LM Studio's local server. The test set is 51 term-dense segments, each taken from a different law in the mainland section of Shaoxing University's Chinese–English parallel corpus. Every segment comes with an official English reference translation, which serves as the standard for terminology.
 
