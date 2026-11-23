@@ -1,0 +1,4239 @@
+[
+  {
+    "source": "第二条　股份有限公司经国务院证券委员会批准，可以向境外特定的、非特定的投资人募集股份，其股票可以在境外上市。",
+    "reference": "Article 2 Limited stock companies may issue their stocks to given or non-given investors and list them abroad with the approval of the Securities Committee of the State Council.",
+    "target1": "Article 2: With the approval of the Securities Commission of the State Council, a joint-stock company may raise shares from specific or non-specific overseas investors, and its shares may be listed overseas.",
+    "target2": "Article 2  A joint-stock limited company may, upon approval by the Securities Commission of the State Council, offer shares for subscription to specific or non-specific overseas investors, and its shares may be listed overseas.",
+    "target3": "Article 2 Limited stock companies may, with the approval of the Securities Committee of the State Council, issue stocks to given and non-given investors abroad, and their stocks may list abroad.",
+    "google": "Article 2 A joint-stock company may, with the approval of the Securities Commission of the State Council, raise shares from specific or non-specific overseas investors, and its shares may be listed overseas.",
+    "terms": [
+      {
+        "source": "第二条",
+        "target": "Article 2"
+      },
+      {
+        "source": "股份有限公司",
+        "target": "Limited stock companies"
+      },
+      {
+        "source": "经",
+        "target": "with"
+      },
+      {
+        "source": "国务院",
+        "target": "State Council"
+      },
+      {
+        "source": "证券委员会",
+        "target": "Securities Committee"
+      },
+      {
+        "source": "批准",
+        "target": "approval"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "向",
+        "target": "to"
+      },
+      {
+        "source": "境外",
+        "target": "abroad"
+      },
+      {
+        "source": "特定的",
+        "target": "given"
+      },
+      {
+        "source": "非特定的",
+        "target": "non-given"
+      },
+      {
+        "source": "投资人",
+        "target": "investors"
+      },
+      {
+        "source": "募集股份",
+        "target": "issue"
+      },
+      {
+        "source": "股票",
+        "target": "stocks"
+      },
+      {
+        "source": "上市",
+        "target": "list"
+      }
+    ],
+    "sentence_id": 1,
+    "law": "国务院关于股份有限公司境外募集股份及上市的特别规定",
+    "law_file": "Law_Corpus_Mainland_018_国务院关于股份有限公司境外募集股份及上市的特别规定.json",
+    "record_id": 2,
+    "source_id": "募集股份上市C003",
+    "target_ids": [
+      "募集股份上市E003"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第二十八条 中国籍的软件著作权人将其在中国境内开发的软件的权利向外国人许可或者转让时，应当报请国务院有关主管部门批准并向软件登记管理机构备案。",
+    "reference": "Article28. When a Chinese national software copyright owner licenses or transfers to a foreigner rights to software developed within China's territory, he shall first make a request for approval to the relevant responsible organs of the State Council and also make a report to the Software Registration Administration Organization.",
+    "target1": "Article 28: When a software copyright holder of Chinese nationality licenses or transfers the rights to software developed within the territory of China to a foreigner, it shall submit for approval by the relevant department of the State Council and file with the software registration and management authority.",
+    "target2": "Article 28: When a software copyright holder of Chinese nationality licenses or transfers the rights to software developed within the territory of China to a foreigner, it shall submit for approval by the relevant competent department of the State Council and file with the software registration and administration authority.",
+    "target3": "Article28 When a Chinese national software copyright owner licenses or transfers the rights to software developed within China's territory to a foreigner, it shall make a request to the relevant responsible organs of the State Council for approval and also make a report to the Software Registration Administration Organization.",
+    "google": "Article 28 When a Chinese software copyright owner licenses or transfers his rights to software developed within China to a foreigner, he shall apply to the relevant competent department of the State Council for approval and file with the software registration and management agency.",
+    "terms": [
+      {
+        "source": "第二十八条",
+        "target": "Article28"
+      },
+      {
+        "source": "中国籍的",
+        "target": "Chinese national"
+      },
+      {
+        "source": "软件著作权人",
+        "target": "software copyright owner"
+      },
+      {
+        "source": "软件",
+        "target": "software"
+      },
+      {
+        "source": "在中国境内",
+        "target": "within China's territory"
+      },
+      {
+        "source": "开发",
+        "target": "developed"
+      },
+      {
+        "source": "权利",
+        "target": "rights"
+      },
+      {
+        "source": "向",
+        "target": "to"
+      },
+      {
+        "source": "外国人",
+        "target": "foreigner"
+      },
+      {
+        "source": "许可",
+        "target": "licenses"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "转让",
+        "target": "transfers"
+      },
+      {
+        "source": "时",
+        "target": "When"
+      },
+      {
+        "source": "应当",
+        "target": "shall"
+      },
+      {
+        "source": "报请",
+        "target": "make a request"
+      },
+      {
+        "source": "国务院",
+        "target": "State Council"
+      },
+      {
+        "source": "有关",
+        "target": "relevant"
+      },
+      {
+        "source": "主管部门",
+        "target": "responsible organs"
+      },
+      {
+        "source": "批准",
+        "target": "approval"
+      },
+      {
+        "source": "并",
+        "target": "also"
+      },
+      {
+        "source": "软件登记管理机构",
+        "target": "Software Registration Administration Organization"
+      },
+      {
+        "source": "备案",
+        "target": "make a report"
+      }
+    ],
+    "sentence_id": 2,
+    "law": "计算机软件保护条例",
+    "law_file": "Law_Corpus_Mainland_030_计算机软件保护条例.json",
+    "record_id": 59,
+    "source_id": "电脑软件保护C078",
+    "target_ids": [
+      "电脑软件保护E078"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第三十一条　无形资产是指企业长期使用而没有实物形态的资产，包括专利权、非专利技术、商标权、著作权、土地使用权、商誉等。",
+    "reference": "Article 31 Intangible assets refer to assets that are used by an enterprise for a long term without material state, including patents, non-patented technology, trademark, copyrights, right to use land sites, and goodwill, etc.",
+    "target1": "Article 31: Intangible assets refer to assets that are used by an enterprise over the long term and do not have a physical form, including patent rights, non-patent technology, trademark rights, copyrights, land use rights, goodwill, etc.",
+    "target2": "Article 31 Intangible assets refer to assets that are used by an enterprise over a long period and do not have a physical form, including patent rights, non-patent technology, trademark rights, copyrights, land use rights, goodwill, etc.",
+    "target3": "Article 31 Intangible assets refer to assets used for a long term by an enterprise without material state, including patents, non-patented technology, trademark, copyrights, right to use land sites, goodwill, etc.",
+    "google": "Article 31 Intangible assets refer to assets that are used by enterprises for a long time and have no physical form, including patent rights, non-patented technologies, trademark rights, copyrights, land use rights, goodwill, etc.",
+    "terms": [
+      {
+        "source": "第三十一条",
+        "target": "Article 31"
+      },
+      {
+        "source": "无形资产",
+        "target": "Intangible assets"
+      },
+      {
+        "source": "资产",
+        "target": "assets"
+      },
+      {
+        "source": "是指",
+        "target": "refer to"
+      },
+      {
+        "source": "企业",
+        "target": "enterprise"
+      },
+      {
+        "source": "长期",
+        "target": "for a long term"
+      },
+      {
+        "source": "使用",
+        "target": "used"
+      },
+      {
+        "source": "没有",
+        "target": "without"
+      },
+      {
+        "source": "实物形态",
+        "target": "material state"
+      },
+      {
+        "source": "包括",
+        "target": "including"
+      },
+      {
+        "source": "专利权",
+        "target": "patents"
+      },
+      {
+        "source": "非专利技术",
+        "target": "non-patented technology"
+      },
+      {
+        "source": "商标权",
+        "target": "trademark"
+      },
+      {
+        "source": "著作权",
+        "target": "copyrights"
+      },
+      {
+        "source": "土地使用权",
+        "target": "right to use land sites"
+      },
+      {
+        "source": "商誉",
+        "target": "goodwill"
+      },
+      {
+        "source": "等",
+        "target": "etc."
+      }
+    ],
+    "sentence_id": 3,
+    "law": "企业会计准则",
+    "law_file": "Law_Corpus_Mainland_034_企业会计准则.json",
+    "record_id": 68,
+    "source_id": "企业会计准则C072",
+    "target_ids": [
+      "企业会计准则E072"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "投保人、被保险人或者受益人故意制造保险事故的，保险人有权解除保险合同，不承担赔偿或者给付保险金的责任，除本法第六十四条第一款另有规定外，也不退还保险费。",
+    "reference": "If the applicant, the insured or the beneficiary intentionally causes the occurrence of an insured event, except as under the first paragraph of Article 64 of this Law, the insurer may terminate the insurance contract, bear no obligation for indemnity or payment of the insurance benefits and decline to return the premiums paid.",
+    "target1": "If the policyholder, the insured, or the beneficiary intentionally causes an insurance accident, the insurer has the right to terminate the insurance contract and shall not be liable for compensation or payment of insurance proceeds, nor shall it refund the premium, unless otherwise provided in the first paragraph of Article 64 of this Law.",
+    "target2": "If the policyholder, the insured, or the beneficiary intentionally causes an insurance accident, the insurer shall have the right to rescind the insurance contract and shall not be liable for compensation or payment of insurance proceeds, nor shall it refund the premium, unless otherwise provided in Paragraph 1 of Article 64 of this Law.",
+    "target3": "If the applicant, insured, or beneficiary intentionally causes the occurrence of an insured event, the insurer may terminate the insurance contract and bear no obligation for indemnity or payment of insurance benefits, and shall decline to return premiums except as under first paragraph of Article 64 of this Law.",
+    "google": "If the policy holder, the insured or the beneficiary intentionally causes an insured accident, the insurer has the right to terminate the insurance contract and shall not be liable for compensation or payment of insurance premiums. Except as otherwise provided in Paragraph 1 of Article 64 of this Law, the insurer shall not refund the insurance premium.",
+    "terms": [
+      {
+        "source": "投保人",
+        "target": "applicant"
+      },
+      {
+        "source": "被保险人",
+        "target": "insured"
+      },
+      {
+        "source": "保险人",
+        "target": "insurer"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "受益人",
+        "target": "beneficiary"
+      },
+      {
+        "source": "故意",
+        "target": "intentionally"
+      },
+      {
+        "source": "制造",
+        "target": "causes the occurrence of"
+      },
+      {
+        "source": "保险事故",
+        "target": "insured event"
+      },
+      {
+        "source": "有权",
+        "target": "may"
+      },
+      {
+        "source": "解除",
+        "target": "terminate"
+      },
+      {
+        "source": "保险合同",
+        "target": "insurance contract"
+      },
+      {
+        "source": "不承担",
+        "target": "bear no"
+      },
+      {
+        "source": "赔偿",
+        "target": "indemnity"
+      },
+      {
+        "source": "给付",
+        "target": "payment"
+      },
+      {
+        "source": "保险金",
+        "target": "insurance benefits"
+      },
+      {
+        "source": "责任",
+        "target": "obligation"
+      },
+      {
+        "source": "本法",
+        "target": "this Law"
+      },
+      {
+        "source": "第六十四条",
+        "target": "Article 64"
+      },
+      {
+        "source": "第一款",
+        "target": "first paragraph"
+      },
+      {
+        "source": "另有规定外",
+        "target": "except as under"
+      },
+      {
+        "source": "不退还",
+        "target": "decline to return"
+      },
+      {
+        "source": "保险费",
+        "target": "premiums"
+      }
+    ],
+    "sentence_id": 4,
+    "law": "中华人民共和国保险法",
+    "law_file": "Law_Corpus_Mainland_049_中华人民共和国保险法.json",
+    "record_id": 47,
+    "source_id": "保险法c063",
+    "target_ids": [
+      "保险法e063"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第十一条 人民法院、人民检察院、公安机关对被逮捕、拘留人犯的邮件、电报，认为有扣押必要的时候，可以通知邮电机关加以扣押。",
+    "reference": "Article 11. When a people's court, a people's procuratorate or a public security organ considers it necessary to seize the mail and telegrams of an arrested or detained offender, they may notify the postal and telecommunications organs to do so.",
+    "target1": "Article 11: When the People's Courts, the People's Procuratorates, and public security organs deem it necessary to seize the mail or telegrams of arrested or detained offenders, they may notify the postal and telecommunications authorities to carry out the seizure.",
+    "target2": "Article 11 Where the People's Courts, the People's Procuratorates, or public security organs deem it necessary to seize the mail or telegrams of arrested or detained offenders, they may notify postal and telecommunications agencies to carry out such seizure.",
+    "target3": "Article 11 The people's court, people's procuratorate, and public security organ may notify postal and telecommunications organs to do so when it considers necessary to seize the mail and telegrams of arrested or detained offenders.",
+    "google": "Article 11 When the people's courts, people's procuratorates and public security organs deem it necessary to seize the mails and telegrams of arrested or detained criminals, they may notify the postal and telecommunications agencies to seize them.",
+    "terms": [
+      {
+        "source": "第十一条",
+        "target": "Article 11"
+      },
+      {
+        "source": "人民法院",
+        "target": "people's court"
+      },
+      {
+        "source": "人民检察院",
+        "target": "people's procuratorate"
+      },
+      {
+        "source": "公安机关",
+        "target": "public security organ"
+      },
+      {
+        "source": "被逮捕",
+        "target": "arrested"
+      },
+      {
+        "source": "拘留",
+        "target": "detained"
+      },
+      {
+        "source": "人犯",
+        "target": "offender"
+      },
+      {
+        "source": "邮件",
+        "target": "mail"
+      },
+      {
+        "source": "电报",
+        "target": "telegrams"
+      },
+      {
+        "source": "认为",
+        "target": "considers"
+      },
+      {
+        "source": "有",
+        "target": "it"
+      },
+      {
+        "source": "扣押",
+        "target": "seize"
+      },
+      {
+        "source": "必要",
+        "target": "necessary"
+      },
+      {
+        "source": "的时候",
+        "target": "When"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "通知",
+        "target": "notify"
+      },
+      {
+        "source": "邮电机关",
+        "target": "postal and telecommunications organs"
+      },
+      {
+        "source": "加以扣押",
+        "target": "do so"
+      }
+    ],
+    "sentence_id": 5,
+    "law": "中华人民共和国逮捕拘留条例",
+    "law_file": "Law_Corpus_Mainland_064_中华人民共和国逮捕拘留条例.json",
+    "record_id": 19,
+    "source_id": "逮捕拘留条例C034",
+    "target_ids": [
+      "逮捕拘留条例E034"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第八十三条留置担保的范围包括主债权及利息、违约金、损害赔偿金，留置物保管费用和实现留置权的费用。",
+    "reference": "Article 83 The scope of guaranty of lien covers the principal claim and the interest thereof, default fine, compensation for damage, cost of preservation of the retained property and expenses for enforcing the lien.",
+    "target1": "Article 83: The scope of the lien shall include the principal debt as well as interest, liquidated damages, compensation for losses, storage costs of the detained property, and expenses incurred in exercising the lien.",
+    "target2": "Article 83 The scope of the lien shall include the principal debt as well as interest, liquidated damages, compensation for losses, storage costs of the detained property, and expenses incurred in exercising the lien.",
+    "target3": "Article 83 The scope of guaranty of lien covers principal claim and interest, default fine, compensation for damage, cost of preservation of retained property and expenses of enforcing lien.",
+    "google": "Article 83 The scope of lien guarantee includes the main creditor's rights and interest, liquidated damages, damages, storage costs of lien items and costs of realizing the lien right.",
+    "terms": [
+      {
+        "source": "第八十三条",
+        "target": "Article 83"
+      },
+      {
+        "source": "留置担保",
+        "target": "guaranty of lien"
+      },
+      {
+        "source": "范围",
+        "target": "scope"
+      },
+      {
+        "source": "包括",
+        "target": "covers"
+      },
+      {
+        "source": "主债权",
+        "target": "principal claim"
+      },
+      {
+        "source": "及",
+        "target": "and"
+      },
+      {
+        "source": "利息",
+        "target": "interest"
+      },
+      {
+        "source": "违约金",
+        "target": "default fine"
+      },
+      {
+        "source": "损害赔偿金",
+        "target": "compensation for damage"
+      },
+      {
+        "source": "留置物",
+        "target": "retained property"
+      },
+      {
+        "source": "保管费用",
+        "target": "cost of preservation"
+      },
+      {
+        "source": "和",
+        "target": "and"
+      },
+      {
+        "source": "实现",
+        "target": "enforcing"
+      },
+      {
+        "source": "留置权",
+        "target": "lien"
+      },
+      {
+        "source": "的费用",
+        "target": "expenses"
+      }
+    ],
+    "sentence_id": 6,
+    "law": "中华人民共和国担保法",
+    "law_file": "Law_Corpus_Mainland_065_中华人民共和国担保法.json",
+    "record_id": 127,
+    "source_id": "担保法c213",
+    "target_ids": [
+      "担保法e213"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "广告的经营者，在明知或者应知的情况下，代理、设计、制作、发布虚假广告的，监督检查部门应当责令停止违法行为，没收违法所得，并依法处以罚款。",
+    "reference": "Where an advertisement operator acts as an agent in designing, producing and releasing false advertisements when it or he clearly knows, or should know, that they are false, the relevant control and inspection authority shall order it or him to desist from the illegal act, confiscate its or his illegal income, and impose a fine on it or him according to law.",
+    "target1": "Where an advertising operator, knowing or having reason to know, agencies, designs, produces, or publishes false advertisements, the supervision and inspection department shall order the cessation of the illegal acts, confiscate the illegal gains, and impose fines in accordance with the law.",
+    "target2": "Where an operator of advertisements, knowing or having reason to know, acts as an agent for, designs, produces, or publishes false advertisements, the supervision and inspection department shall order the cessation of the illegal acts, confiscate the illegal gains, and impose fines in accordance with the law.",
+    "target3": "When an advertisement operator clearly knows or should know and acts as an agent, designs, produces, or releases false advertisements, the control and inspection authority shall order them to desist from the illegal act, confiscate illegal income, and impose a fine according to law.",
+    "google": "If an advertising operator, knowingly or should have known, acts as an agent, designs, produces, or publishes false advertisements, the supervision and inspection departments shall order them to stop their illegal activities, confiscate their illegal gains, and impose fines in accordance with the law.",
+    "terms": [
+      {
+        "source": "广告的经营者",
+        "target": "advertisement operator"
+      },
+      {
+        "source": "明知",
+        "target": "clearly knows"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "应知",
+        "target": "should know"
+      },
+      {
+        "source": "的情况下",
+        "target": "when"
+      },
+      {
+        "source": "代理",
+        "target": "acts as an agent"
+      },
+      {
+        "source": "设计",
+        "target": "designing"
+      },
+      {
+        "source": "制作",
+        "target": "producing"
+      },
+      {
+        "source": "发布",
+        "target": "releasing"
+      },
+      {
+        "source": "虚假广告",
+        "target": "false advertisements"
+      },
+      {
+        "source": "监督检查部门",
+        "target": "control and inspection authority"
+      },
+      {
+        "source": "应当",
+        "target": "shall"
+      },
+      {
+        "source": "责令",
+        "target": "order"
+      },
+      {
+        "source": "停止",
+        "target": "desist from"
+      },
+      {
+        "source": "违法行为",
+        "target": "illegal act"
+      },
+      {
+        "source": "没收",
+        "target": "confiscate"
+      },
+      {
+        "source": "违法所得",
+        "target": "illegal income"
+      },
+      {
+        "source": "并",
+        "target": "and"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "处以罚款",
+        "target": "impose a fine"
+      }
+    ],
+    "sentence_id": 7,
+    "law": "中华人民共和国反不正当竞争法",
+    "law_file": "Law_Corpus_Mainland_075_中华人民共和国反不正当竞争法.json",
+    "record_id": 38,
+    "source_id": "反不当竞争法C060",
+    "target_ids": [
+      "反不当竞争法E060"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第三十一条倾销进口产品的出口经营者在反倾销调查期间，可以向商务部作出改变价格或者停止以倾销价格出口的价格承诺。�",
+    "reference": "Article 31. During the period of an anti-dumping investigation, an exporter of the dumped imports may offer price undertakings to MOFCOM to revise its prices or to cease exporting at dumped prices.",
+    "target1": "Article 31 During an anti-dumping investigation, exporters of dumped imported products may make price commitments to the Ministry of Commerce to change prices or cease exporting at dumped prices.",
+    "target2": "Article 31 During an anti-dumping investigation, exporters of dumped imported products may make price commitments to the Ministry of Commerce to change prices or cease exporting at dumped prices.",
+    "target3": "Article 31 During the period of an anti-dumping investigation, an exporter of dumped imports may offer price undertakings to MOFCOM to revise its prices or cease exporting at dumped prices.",
+    "google": "Article 31 During the anti-dumping investigation period, export operators of dumped imported products may make price commitments to the Ministry of Commerce to change prices or stop exporting at dumped prices. �",
+    "terms": [
+      {
+        "source": "第三十一条",
+        "target": "Article 31"
+      },
+      {
+        "source": "倾销",
+        "target": "dumped"
+      },
+      {
+        "source": "进口产品",
+        "target": "imports"
+      },
+      {
+        "source": "出口经营者",
+        "target": "exporter"
+      },
+      {
+        "source": "出口",
+        "target": "exporting"
+      },
+      {
+        "source": "反倾销调查",
+        "target": "anti-dumping investigation"
+      },
+      {
+        "source": "期间",
+        "target": "During the period of"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "向",
+        "target": "to"
+      },
+      {
+        "source": "商务部",
+        "target": "MOFCOM"
+      },
+      {
+        "source": "作出",
+        "target": "offer"
+      },
+      {
+        "source": "改变价格",
+        "target": "revise its prices"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "停止",
+        "target": "cease"
+      },
+      {
+        "source": "以倾销价格",
+        "target": "at dumped prices"
+      },
+      {
+        "source": "价格承诺",
+        "target": "price undertakings"
+      }
+    ],
+    "sentence_id": 8,
+    "law": "中华人民共和国反倾销条例",
+    "law_file": "Law_Corpus_Mainland_077_中华人民共和国反倾销条例.json",
+    "record_id": 53,
+    "source_id": "反倾销条例C091",
+    "target_ids": [
+      "反倾销条例E091"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第十二条　 扣缴义务人和自行申报纳税人，违反本法第九条规定的，税务机关可以酌情处以罚金。",
+    "reference": "Article 12. The tax authorities may, in the light of the circumstances, impose a fine on a withholding agent or a taxpayer personally filing a return who has violated the provisions of Article 9 of this Law.",
+    "target1": "Article 12: Tax authorities may impose fines at their discretion on withholding agents and self-declared taxpayers who violate the provisions of Article 9 of this Law.",
+    "target2": "Article 12  Withholding agents and self-declared taxpayers who violate the provisions of Article 9 of this Law may be fined at the discretion of the tax authorities.",
+    "target3": "Article 12  Withholding agents and taxpayers personally filing a return who violated the provisions of Article 9 of this Law may be imposed a fine by the tax authorities in the light of the circumstances.",
+    "google": "Article 12 If withholding agents and self-declaring taxpayers violate the provisions of Article 9 of this Law, the tax authorities may impose fines as appropriate.",
+    "terms": [
+      {
+        "source": "第十二条",
+        "target": "Article 12"
+      },
+      {
+        "source": "扣缴义务人",
+        "target": "withholding agent"
+      },
+      {
+        "source": "和",
+        "target": "or"
+      },
+      {
+        "source": "自行申报纳税人",
+        "target": "taxpayer personally filing a return"
+      },
+      {
+        "source": "违反",
+        "target": "violated"
+      },
+      {
+        "source": "本法",
+        "target": "this Law"
+      },
+      {
+        "source": "第九条",
+        "target": "Article 9"
+      },
+      {
+        "source": "规定",
+        "target": "provisions"
+      },
+      {
+        "source": "税务机关",
+        "target": "tax authorities"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "酌情",
+        "target": "in the light of the circumstances"
+      },
+      {
+        "source": "处以罚金",
+        "target": "impose a fine"
+      }
+    ],
+    "sentence_id": 9,
+    "law": "中华人民共和国个人所得税法",
+    "law_file": "Law_Corpus_Mainland_083_中华人民共和国个人所得税法.json",
+    "record_id": 12,
+    "source_id": "个人所得税法C035",
+    "target_ids": [
+      "个人所得税法E035"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第一百六十三条：股份有限公司、有限责任公司发行公司债券，由董事会制订方案，股东会作出决议。",
+    "reference": "Article 163 Where a joint stock limited company or limited liability company is to issue company bonds, its board of directors shall prepare a plan and the shareholders' committee shall adopt a resolution on such matter.",
+    "target1": "Article 163: When a joint-stock company or a limited liability company issues corporate bonds, the board of directors shall formulate the plan and the shareholders' meeting shall make the resolution.",
+    "target2": "Article 163: For a joint-stock company or a limited liability company to issue corporate bonds, the board of directors shall formulate a plan and the shareholders' meeting shall pass a resolution.",
+    "target3": "Article 163: For a joint stock limited company or a limited liability company to issue company bonds, the board of directors shall prepare the plan and the shareholders' committee shall adopt the resolution.",
+    "google": "Article 163: When a joint stock company or a limited liability company issues corporate bonds, the board of directors shall formulate a plan and the shareholders' meeting shall make a resolution.",
+    "terms": [
+      {
+        "source": "第一百六十三条",
+        "target": "Article 163"
+      },
+      {
+        "source": "股份有限公司",
+        "target": "joint stock limited company"
+      },
+      {
+        "source": "有限责任公司",
+        "target": "limited liability company"
+      },
+      {
+        "source": "发行",
+        "target": "issue"
+      },
+      {
+        "source": "公司债券",
+        "target": "company bonds"
+      },
+      {
+        "source": "董事会",
+        "target": "board of directors"
+      },
+      {
+        "source": "制订",
+        "target": "prepare"
+      },
+      {
+        "source": "方案",
+        "target": "plan"
+      },
+      {
+        "source": "股东会",
+        "target": "shareholders' committee"
+      },
+      {
+        "source": "作出",
+        "target": "adopt"
+      },
+      {
+        "source": "决议",
+        "target": "resolution"
+      }
+    ],
+    "sentence_id": 10,
+    "law": "中华人民共和国公司法",
+    "law_file": "Law_Corpus_Mainland_090_中华人民共和国公司法.json",
+    "record_id": 204,
+    "source_id": "公司法C504",
+    "target_ids": [
+      "公司法E504"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第八条 申请加入中国国籍获得批准的，即取得中国国籍；被批准加入中国国籍的，不得再保留外国国籍。",
+    "reference": "Article 8 Any person who applies for naturalization as a Chinese national shall acquire Chinese nationality upon approval of his application; a person whose application for naturalization as a Chinese national has been approved shall not retain foreign nationality.",
+    "target1": "Article 8: An application for Chinese nationality that is approved shall result in the acquisition of Chinese nationality; a person approved to join Chinese nationality may no longer retain foreign nationality.",
+    "target2": "Article 8 Where an application for naturalization as a citizen of China is approved, the applicant shall immediately acquire Chinese nationality; a person who is approved to join Chinese nationality shall not retain foreign nationality.",
+    "target3": "Article 8 Those who applies for naturalization as a Chinese national upon approval shall acquire Chinese nationality; those who has been approved to join Chinese nationality shall not retain foreign nationality.",
+    "google": "Article 8 Those who apply for Chinese nationality and are approved shall acquire Chinese nationality; those who are approved for Chinese nationality shall no longer retain foreign nationality.",
+    "terms": [
+      {
+        "source": "第八条",
+        "target": "Article 8"
+      },
+      {
+        "source": "申请",
+        "target": "applies"
+      },
+      {
+        "source": "加入中国国籍",
+        "target": "naturalization as a Chinese national"
+      },
+      {
+        "source": "中国国籍",
+        "target": "Chinese nationality"
+      },
+      {
+        "source": "获得批准",
+        "target": "upon approval"
+      },
+      {
+        "source": "即",
+        "target": "shall"
+      },
+      {
+        "source": "取得",
+        "target": "acquire"
+      },
+      {
+        "source": "被批准",
+        "target": "has been approved"
+      },
+      {
+        "source": "不得",
+        "target": "shall not"
+      },
+      {
+        "source": "保留",
+        "target": "retain"
+      },
+      {
+        "source": "外国国籍",
+        "target": "foreign nationality"
+      }
+    ],
+    "sentence_id": 11,
+    "law": "中华人民共和国国籍法",
+    "law_file": "Law_Corpus_Mainland_097_中华人民共和国国籍法.json",
+    "record_id": 8,
+    "source_id": "国籍法C012",
+    "target_ids": [
+      "国籍法E012"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第三十二条 赔偿请求人请求国家赔偿的时效为两年，自国家机关及其工作人员行使职权时的行为被依法确认为违法之日起计算，但被羁押期间不计算在内。",
+    "reference": "Article 32 The prescription of claim for state compensation by the claimant shall be 2 years, which shall be calculated from the day on which the act of exercising the functions and powers by the State organ and its personnel was confirmed unlawful according to law, but the period of custody shall be excluded from the limitation of time.",
+    "target1": "Article 32 The statute of limitations for a claimant to request state compensation is two years, calculated from the date on which the acts committed by state organs and their personnel in the exercise of their powers are confirmed as illegal according to law, excluding the period of detention.",
+    "target2": "Article 32 The statute of limitations for a claimant to request state compensation shall be two years, calculated from the date on which the acts committed by state organs and their personnel in the exercise of their powers are confirmed as illegal in accordance with the law, excluding the period during which the claimant was in detention.",
+    "target3": "Article 32 The prescription for a claimant to claim state compensation is 2 years, calculated from the day an act of a State organ and its personnel exercising the functions and powers is confirmed as unlawful according to law, but excluded from the period of custody.",
+    "google": "Article 32 The statute of limitations for a compensation claimant to request state compensation is two years, starting from the date when the behavior of state agencies and their staff when exercising their powers is confirmed to be illegal in accordance with the law, but the period of detention is not included.",
+    "terms": [
+      {
+        "source": "第三十二条",
+        "target": "Article 32"
+      },
+      {
+        "source": "赔偿请求人",
+        "target": "claimant"
+      },
+      {
+        "source": "请求",
+        "target": "claim"
+      },
+      {
+        "source": "国家赔偿",
+        "target": "state compensation"
+      },
+      {
+        "source": "时效",
+        "target": "prescription"
+      },
+      {
+        "source": "两年",
+        "target": "2 years"
+      },
+      {
+        "source": "自",
+        "target": "from"
+      },
+      {
+        "source": "国家机关",
+        "target": "State organ"
+      },
+      {
+        "source": "及",
+        "target": "and"
+      },
+      {
+        "source": "其",
+        "target": "its"
+      },
+      {
+        "source": "工作人员",
+        "target": "personnel"
+      },
+      {
+        "source": "行使职权",
+        "target": "exercising the functions and powers"
+      },
+      {
+        "source": "行为",
+        "target": "act"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "确认",
+        "target": "confirmed"
+      },
+      {
+        "source": "违法",
+        "target": "unlawful"
+      },
+      {
+        "source": "之日",
+        "target": "the day"
+      },
+      {
+        "source": "计算",
+        "target": "calculated"
+      },
+      {
+        "source": "但",
+        "target": "but"
+      },
+      {
+        "source": "羁押期间",
+        "target": "period of custody"
+      },
+      {
+        "source": "不计算在内",
+        "target": "excluded"
+      }
+    ],
+    "sentence_id": 12,
+    "law": "中华人民共和国国家赔偿法",
+    "law_file": "Law_Corpus_Mainland_099_中华人民共和国国家赔偿法.json",
+    "record_id": 58,
+    "source_id": "国家赔偿法C109",
+    "target_ids": [
+      "国家赔偿法E109"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第五十二条 人民法院判处没收的走私货物、物品、违法所得、走私运输工具和罚金，海关决定没收的走私货物、物品、违法所得和罚款，全部上缴国库。",
+    "reference": "[Article 52] All smuggled goods and articles, the smuggling means of transport employed in the smuggling and the illegal incomes therefrom which are confiscated by the order of the People's Court or by the decision of the Customs together with the fines paid shall be turned over to the State Treasury.",
+    "target1": "Article 52: Smuggled goods, items, illegal gains, smuggling transport vehicles and fines confiscated by the People's Court, as well as smuggled goods, items, illegal gains and fines confiscated by the Customs shall all be turned over to the national treasury.",
+    "target2": "Article 52 Smuggled goods, items, illegal gains, smuggling transport vehicles and fines confiscated by the People's Court, as well as smuggled goods, items, illegal gains and fines confiscated by the Customs shall all be turned over to the state treasury.",
+    "target3": "Article 52 The smuggled goods, articles, illegal incomes, smuggling means of transport and fines ordered to be confiscated by the People's Court, and the smuggled goods, articles, illegal incomes and fines decided to be confiscated by Customs, shall all be turned over to the State Treasury.",
+    "google": "Article 52 The smuggled goods, articles, illegal gains, smuggled means of transportation and fines that are sentenced to be confiscated by the people's court and the smuggled goods, articles, illegal gains and fines that are confiscated by the customs shall all be turned over to the state treasury.",
+    "terms": [
+      {
+        "source": "第五十二条",
+        "target": "Article 52"
+      },
+      {
+        "source": "人民法院",
+        "target": "People's Court"
+      },
+      {
+        "source": "判处",
+        "target": "order"
+      },
+      {
+        "source": "没收",
+        "target": "confiscated"
+      },
+      {
+        "source": "走私货物",
+        "target": "smuggled goods"
+      },
+      {
+        "source": "物品",
+        "target": "articles"
+      },
+      {
+        "source": "违法所得",
+        "target": "illegal incomes"
+      },
+      {
+        "source": "走私运输工具",
+        "target": "smuggling means of transport"
+      },
+      {
+        "source": "罚金",
+        "target": "fines"
+      },
+      {
+        "source": "海关",
+        "target": "Customs"
+      },
+      {
+        "source": "决定",
+        "target": "decision"
+      },
+      {
+        "source": "全部",
+        "target": "All"
+      },
+      {
+        "source": "上缴",
+        "target": "turned over"
+      },
+      {
+        "source": "国库",
+        "target": "State Treasury"
+      }
+    ],
+    "sentence_id": 13,
+    "law": "中华人民共和国海关法",
+    "law_file": "Law_Corpus_Mainland_107_中华人民共和国海关法.json",
+    "record_id": 95,
+    "source_id": "海关法C126",
+    "target_ids": [
+      "海关法E126"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第二百一十六条 海上保险合同，是指保险人按照约定，对被保险人遭受保险事故造成保险标的的损失和产生的责任负责赔偿，而由被保险人支付保险费合同。",
+    "reference": "Article 216 A contract of marine insurance is a contract whereby the insurer undertakes, as agreed, to indemnify the loss to the subject matter insured and the liability of the insured caused by perils covered by the insurance against the payment of an insurance premium by the insured.",
+    "target1": "Article 216: A marine insurance contract refers to a contract in which the insurer agrees to compensate the insured for losses to the subject matter of insurance and liabilities arising from an insured peril, in exchange for the payment of a premium by the insured.",
+    "target2": "Article 216 A marine insurance contract refers to a contract whereby the insurer agrees to indemnify the insured for losses to the subject matter of insurance and liabilities arising from an insured peril, in exchange for the payment of a premium by the insured.",
+    "target3": "Article 216 A contract of marine insurance is a contract in which the insurer, as agreed, undertakes payment for the loss to the subject matter insured and the liability arising from perils covered by the insurance caused to the insured, while the insured pays the insurance premium.",
+    "google": "Article 216 A marine insurance contract refers to a contract in which the insurer, in accordance with the agreement, is responsible for compensating the insured for the losses and liabilities arising from the insured subject matter caused by the insured accident, and the insured pays the insurance premium.",
+    "terms": [
+      {
+        "source": "第二百一十六条",
+        "target": "Article 216"
+      },
+      {
+        "source": "海上保险合同",
+        "target": "contract of marine insurance"
+      },
+      {
+        "source": "合同",
+        "target": "contract"
+      },
+      {
+        "source": "是指",
+        "target": "is"
+      },
+      {
+        "source": "保险人",
+        "target": "insurer"
+      },
+      {
+        "source": "按照约定",
+        "target": "as agreed"
+      },
+      {
+        "source": "被保险人",
+        "target": "insured"
+      },
+      {
+        "source": "遭受",
+        "target": "caused by"
+      },
+      {
+        "source": "保险事故",
+        "target": "perils covered by the insurance"
+      },
+      {
+        "source": "保险标的",
+        "target": "subject matter insured"
+      },
+      {
+        "source": "损失",
+        "target": "loss"
+      },
+      {
+        "source": "责任",
+        "target": "liability"
+      },
+      {
+        "source": "负责赔偿",
+        "target": "undertakes"
+      },
+      {
+        "source": "支付",
+        "target": "payment"
+      },
+      {
+        "source": "保险费",
+        "target": "insurance premium"
+      }
+    ],
+    "sentence_id": 14,
+    "law": "中华人民共和国海商法",
+    "law_file": "Law_Corpus_Mainland_108_中华人民共和国海商法.json",
+    "record_id": 392,
+    "source_id": "海商法C541",
+    "target_ids": [
+      "海商法E541"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第二十九条船舶扣押期间届满，被请求人不提供担保，而且船舶不宜继续扣押的，海事请求人可以在提起诉讼或者申请仲裁后，向扣押船舶的海事法院申请拍卖船舶。",
+    "reference": "Article 29 If, on the expiration of the period of arresting a ship, the party who opposes the claim fails to provide guarantee, and the ship is not suitable for being arrested longer, the maritime claimant may apply to the maritime court arresting the ship for auction of the ship after bringing a law suit or applying for arbitration.",
+    "target1": "Article 29: Upon the expiration of the period of vessel detention, if the respondent fails to provide security and it is inappropriate to continue the detention of the vessel, the maritime claimant may apply to the maritime court for the auction of the detained vessel after initiating litigation or applying for arbitration.",
+    "target2": "Article 29: Upon the expiration of the period of vessel arrest, if the respondent fails to provide security and it is inappropriate to continue the arrest of the vessel, the maritime claimant may apply to the maritime court of the arrested vessel for its auction after initiating litigation or applying for arbitration.",
+    "target3": "Article 29 Upon the expiration of the period of arresting the ship, if the party who opposes the claim fails to provide a guarantee and it is not suitable for the ship to be arrested longer, the maritime claimant may apply to the maritime court for the auction of the ship after bringing a law suit or applying for arbitration.",
+    "google": "Article 29 If the ship arrest period expires and the requested party does not provide guarantee and the ship is not suitable for continued arrest, the maritime claimant may, after filing a lawsuit or applying for arbitration, apply to the maritime court that seized the ship to auction the ship.",
+    "terms": [
+      {
+        "source": "第二十九条",
+        "target": "Article 29"
+      },
+      {
+        "source": "船舶",
+        "target": "ship"
+      },
+      {
+        "source": "扣押期间",
+        "target": "period of arresting"
+      },
+      {
+        "source": "届满",
+        "target": "expiration"
+      },
+      {
+        "source": "被请求人",
+        "target": "party who opposes the claim"
+      },
+      {
+        "source": "不提供",
+        "target": "fails to provide"
+      },
+      {
+        "source": "担保",
+        "target": "guarantee"
+      },
+      {
+        "source": "而且",
+        "target": "and"
+      },
+      {
+        "source": "不宜",
+        "target": "not suitable"
+      },
+      {
+        "source": "继续扣押",
+        "target": "being arrested longer"
+      },
+      {
+        "source": "海事请求人",
+        "target": "maritime claimant"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "提起诉讼",
+        "target": "bringing a law suit"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "申请仲裁",
+        "target": "applying for arbitration"
+      },
+      {
+        "source": "申请",
+        "target": "apply"
+      },
+      {
+        "source": "后",
+        "target": "after"
+      },
+      {
+        "source": "向",
+        "target": "to"
+      },
+      {
+        "source": "扣押船舶",
+        "target": "arresting the ship"
+      },
+      {
+        "source": "海事法院",
+        "target": "maritime court"
+      },
+      {
+        "source": "拍卖船舶",
+        "target": "auction of the ship"
+      }
+    ],
+    "sentence_id": 15,
+    "law": "中华人民共和国海事诉讼特别程序法",
+    "law_file": "Law_Corpus_Mainland_111_中华人民共和国海事诉讼特别程序法.json",
+    "record_id": 44,
+    "source_id": "海诉程序法C094",
+    "target_ids": [
+      "海诉程序法E094"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第四十三条 合伙人个人财产不足清偿其个人所负债务的，该合伙人只能以其从合伙企业中分取的收益用于清偿；债权人也可以依法请求人民法院强制执行该合伙人在合伙企业中的财产份额用于清偿。",
+    "reference": "Article 43 Where the personal property of a partner is not sufficient to pay his personal debts, such partner may only use the income received from the partnership for payment of such debts; provided that the creditors thereof may, in accordance with the law, petition the People's Court to attach the partner's share of the partnership property for full payment of the debts.",
+    "target1": "Article 43 Where a partner's personal property is insufficient to settle their personal debts, that partner may only use the profits distributed from the partnership to make such payments; creditors may also request the people's court to compulsorily execute the partner's property interest in the partnership for settlement in accordance with the law.",
+    "target2": "Article 43 Where a partner's personal property is insufficient to satisfy their personal debts, such partner may only use the profits distributed from the partnership to make such payments; creditors may also request the people's court to compulsorily execute the partner's property interest in the partnership for satisfaction of the debts in accordance with the law.",
+    "target3": "Article 43 If a partner's personal property is not sufficient to pay their personal debts, said partner may only use the income received from the partnership to pay; creditors may also petition the People's Court in accordance with the law to attach the share of the partnership property of said partner for payment.",
+    "google": "Article 43 If a partner's personal property is insufficient to pay off his personal debts, the partner can only use the income he or she receives from the partnership to pay off the debt; the creditor may also request the people's court to enforce the partner's share of the partnership's property in the partnership to pay off the debt.",
+    "terms": [
+      {
+        "source": "第四十三条",
+        "target": "Article 43"
+      },
+      {
+        "source": "合伙人",
+        "target": "partner"
+      },
+      {
+        "source": "个人财产",
+        "target": "personal property"
+      },
+      {
+        "source": "不足",
+        "target": "not sufficient"
+      },
+      {
+        "source": "清偿",
+        "target": "pay"
+      },
+      {
+        "source": "个人所负债务",
+        "target": "personal debts"
+      },
+      {
+        "source": "只能",
+        "target": "may only"
+      },
+      {
+        "source": "合伙企业",
+        "target": "partnership"
+      },
+      {
+        "source": "分取的收益",
+        "target": "income received"
+      },
+      {
+        "source": "用于",
+        "target": "use"
+      },
+      {
+        "source": "债权人",
+        "target": "creditors"
+      },
+      {
+        "source": "依法",
+        "target": "in accordance with the law"
+      },
+      {
+        "source": "请求",
+        "target": "petition"
+      },
+      {
+        "source": "人民法院",
+        "target": "People's Court"
+      },
+      {
+        "source": "强制执行",
+        "target": "attach"
+      },
+      {
+        "source": "财产份额",
+        "target": "share of the partnership property"
+      }
+    ],
+    "sentence_id": 16,
+    "law": "中华人民共和国合伙企业法",
+    "law_file": "Law_Corpus_Mainland_113_中华人民共和国合伙企业法.json",
+    "record_id": 63,
+    "source_id": "合伙企业法C090",
+    "target_ids": [
+      "合伙企业法E090"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第二十四条债权人依照合同法第七十四条的规定提起撤销权诉讼时只以债务人为被告，未将受益人或者受让人列为第三人的，人民法院可以追加该受益人或者受让人为第三人。",
+    "reference": "Clause 24 If in a suit to enforce its cancellation right pursuant to Article 74 of the Contract Law, the obligee only names the obligor as the defendant without also naming the beneficiary or the assignee as an interested third person, the People's Court may add such beneficiary or assignee as an interested third person.",
+    "target1": "Article 24: When a creditor files a lawsuit for rescission in accordance with the provisions of Article 74 of the Contract Law, only the debtor shall be the defendant; if the beneficiary or assignee is not listed as a third party, the People's Court may add said beneficiary or assignee as a third party.",
+    "target2": "Article 24 When a creditor files a lawsuit for rescission in accordance with the provisions of Article 74 of the Contract Law, only the debtor shall be the defendant; if the beneficiary or assignee is not listed as a third party, the People's Court may add such beneficiary or assignee as a third party.",
+    "target3": "Clause 24 When an obligee enforces a cancellation right lawsuit pursuant to the provisions of Article 74 of Contract Law only naming the obligor as the defendant, if the beneficiary or assignee is not named as an interested third person, the People's Court may add said beneficiary or assignee as an interested third person.",
+    "google": "Article 24: When a creditor files a rescission action in accordance with the provisions of Article 74 of the Contract Law, only the debtor is named as the defendant and the beneficiary or assignee is not listed as a third party. The people's court may add the beneficiary or assignee as a third party.",
+    "terms": [
+      {
+        "source": "第二十四条",
+        "target": "Clause 24"
+      },
+      {
+        "source": "债权人",
+        "target": "obligee"
+      },
+      {
+        "source": "依照",
+        "target": "pursuant to"
+      },
+      {
+        "source": "合同法",
+        "target": "Contract Law"
+      },
+      {
+        "source": "第七十四条",
+        "target": "Article 74"
+      },
+      {
+        "source": "提起",
+        "target": "enforce"
+      },
+      {
+        "source": "撤销权诉讼",
+        "target": "cancellation right"
+      },
+      {
+        "source": "只",
+        "target": "only"
+      },
+      {
+        "source": "债务人",
+        "target": "obligor"
+      },
+      {
+        "source": "被告",
+        "target": "defendant"
+      },
+      {
+        "source": "未",
+        "target": "without"
+      },
+      {
+        "source": "受益人",
+        "target": "beneficiary"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "受让人",
+        "target": "assignee"
+      },
+      {
+        "source": "列为",
+        "target": "naming"
+      },
+      {
+        "source": "第三人",
+        "target": "interested third person"
+      },
+      {
+        "source": "人民法院",
+        "target": "People's Court"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "追加",
+        "target": "add"
+      }
+    ],
+    "sentence_id": 17,
+    "law": "中华人民共和国合同法",
+    "law_file": "Law_Corpus_Mainland_114_中华人民共和国合同法.json",
+    "record_id": 576,
+    "source_id": "合同法C706",
+    "target_ids": [
+      "合同法E706"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第四十八条对拒不执行有关扶养费、抚养费、赡养费、财产分割、遗产继承、探望子女等判决或裁定的，由人民法院依法强制执行。有关个人和单位应负协助执行的责任。",
+    "reference": "Article 48 In cases where the person refuses to abide by judgements or rulings on maintenance, upbringing or support payments, or on the division or inheritance of property, or on visits to children, the people's court shall enforce the execution of the judgements or rulings according to law. The individuals and units concerned shall have the duty to assist such executions.",
+    "target1": "Article 48: Where a party refuses to perform judgments or rulings regarding alimony, child support, maintenance fees, property division, inheritance, or visitation of children, the people's court shall enforce them by law. Relevant individuals and units shall bear the responsibility to assist in the enforcement.",
+    "target2": "Article 48 Where a party refuses to perform judgments or rulings concerning maintenance fees, child support, elderly support, property division, inheritance of estate, or visitation of children, the people's court shall enforce them by law. Relevant individuals and units shall bear the responsibility to assist in the enforcement.",
+    "target3": "Article 48 For those who refuse to abide by judgements or rulings concerning maintenance, upbringing, support payments, division of property, inheritance of property, or visits to children, the people's court shall enforce the execution according to law. Relevant individuals and units shall have the duty to assist such executions.",
+    "google": "Article 48 Anyone who refuses to implement judgments or rulings on support, alimony, alimony, property division, inheritance, visit to children, etc. shall be enforced by the people's court in accordance with the law. Relevant individuals and units should be responsible for assisting in implementation.",
+    "terms": [
+      {
+        "source": "第四十八条",
+        "target": "Article 48"
+      },
+      {
+        "source": "拒不执行",
+        "target": "refuses to abide by"
+      },
+      {
+        "source": "扶养费",
+        "target": "maintenance"
+      },
+      {
+        "source": "抚养费",
+        "target": "upbringing"
+      },
+      {
+        "source": "赡养费",
+        "target": "support payments"
+      },
+      {
+        "source": "财产分割",
+        "target": "division"
+      },
+      {
+        "source": "遗产继承",
+        "target": "inheritance of property"
+      },
+      {
+        "source": "探望子女",
+        "target": "visits to children"
+      },
+      {
+        "source": "判决",
+        "target": "judgements"
+      },
+      {
+        "source": "或",
+        "target": "or"
+      },
+      {
+        "source": "裁定",
+        "target": "rulings"
+      },
+      {
+        "source": "人民法院",
+        "target": "people's court"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "强制执行",
+        "target": "enforce the execution"
+      },
+      {
+        "source": "个人",
+        "target": "individuals"
+      },
+      {
+        "source": "单位",
+        "target": "units"
+      },
+      {
+        "source": "应负",
+        "target": "shall have"
+      },
+      {
+        "source": "协助执行",
+        "target": "assist such executions"
+      },
+      {
+        "source": "责任",
+        "target": "duty"
+      }
+    ],
+    "sentence_id": 18,
+    "law": "中华人民共和国婚姻法",
+    "law_file": "Law_Corpus_Mainland_119_中华人民共和国婚姻法.json",
+    "record_id": 73,
+    "source_id": "婚姻法C100",
+    "target_ids": [
+      "婚姻法E100"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第三十二条 无人继承又无人受遗赠的遗产，归国家所有；死者生前是集体所有制组织成员的，归所在集体所有制组织所有。",
+    "reference": "Article 32 An estate which is left with neither a successor nor a legatee shall belong to the state or, where the decedent was a member of an organization under collective ownership before his or her death, to such an organization.",
+    "target1": "Article 32: Heritage with no heir and no legatee shall belong to the state; if the deceased was a member of a collective ownership organization during their lifetime, it shall belong to the relevant collective ownership organization.",
+    "target2": "Article 32: Heritage with no heir and no legatee shall belong to the state; where the deceased was a member of a collective ownership organization during their lifetime, it shall belong to the relevant collective ownership organization.",
+    "target3": "Article 32 Estate for which there is neither a successor nor a legatee shall belong to the state; if the decedent was a member of an organization under collective ownership before his or her death, it shall belong to the organization under collective ownership where he or she was a member.",
+    "google": "Article 32 Inheritance that has no one to inherit and no one to be bequeathed shall be owned by the state; if the deceased was a member of a collective ownership organization during his lifetime, it shall be owned by the collective ownership organization to which he belongs.",
+    "terms": [
+      {
+        "source": "第三十二条",
+        "target": "Article 32"
+      },
+      {
+        "source": "无人继承",
+        "target": "neither a successor"
+      },
+      {
+        "source": "无人受遗赠",
+        "target": "nor a legatee"
+      },
+      {
+        "source": "遗产",
+        "target": "estate"
+      },
+      {
+        "source": "归国家所有",
+        "target": "belong to the state"
+      },
+      {
+        "source": "死者",
+        "target": "decedent"
+      },
+      {
+        "source": "生前",
+        "target": "before his or her death"
+      },
+      {
+        "source": "集体所有制组织",
+        "target": "organization under collective ownership"
+      },
+      {
+        "source": "成员",
+        "target": "member"
+      }
+    ],
+    "sentence_id": 19,
+    "law": "中华人民共和国继承法",
+    "law_file": "Law_Corpus_Mainland_126_中华人民共和国继承法.json",
+    "record_id": 47,
+    "source_id": "继承法C082",
+    "target_ids": [
+      "继承法E082"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第五条监狱的人民警察依法管理监狱、执行刑罚、对罪犯进行教育改造等活动，受法律保护。",
+    "reference": "Article 5 Activities in prison administration, execution of criminal punishments, and education and reform of prisoners conducted according to law by the people's police of a prison shall be protected by law.",
+    "target1": "Article 5: People's police officers in prisons are protected by law when they manage prisons, execute punishments, and conduct educational transformation activities for prisoners.",
+    "target2": "Article 5: The activities of people's police in prisons, including the management of prisons, execution of punishments, and education and reform of prisoners, shall be conducted in accordance with the law and are protected by law.",
+    "target3": "Article 5 The people's police of the prison shall, according to law, manage the prison, execute criminal punishments, conduct activities such as education and reform for prisoners, and are protected by law.",
+    "google": "Article 5 The people's police in prisons shall manage prisons, execute sentences, educate and reform criminals and other activities in accordance with the law, and shall be protected by law.",
+    "terms": [
+      {
+        "source": "第五条",
+        "target": "Article 5"
+      },
+      {
+        "source": "监狱",
+        "target": "prison"
+      },
+      {
+        "source": "人民警察",
+        "target": "people's police"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "管理",
+        "target": "administration"
+      },
+      {
+        "source": "执行刑罚",
+        "target": "execution of criminal punishments"
+      },
+      {
+        "source": "罪犯",
+        "target": "prisoners"
+      },
+      {
+        "source": "教育改造",
+        "target": "education and reform"
+      },
+      {
+        "source": "活动",
+        "target": "Activities"
+      },
+      {
+        "source": "受法律保护",
+        "target": "protected by law"
+      }
+    ],
+    "sentence_id": 20,
+    "law": "中华人民共和国监狱法",
+    "law_file": "Law_Corpus_Mainland_129_中华人民共和国监狱法.json",
+    "record_id": 6,
+    "source_id": "监狱法C029",
+    "target_ids": [
+      "监狱法E029"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "当事人没有在经济合同中订立仲裁条款，事后又没有达成书面仲裁协议的，可以向人民法院起诉。",
+    "reference": "If there is no arbitral clause concluded between the parties in the contract and no written arbitration agreement is reached subsequently, the parties may bring a lawsuit in the people's court.",
+    "target1": "Where the parties have not included an arbitration clause in the economic contract and have not subsequently reached a written arbitration agreement, they may file a lawsuit in a people's court.",
+    "target2": "Where the parties have not included an arbitration clause in the economic contract and have subsequently failed to reach a written arbitration agreement, they may initiate litigation in a people's court.",
+    "target3": "Where the parties have no arbitral clause concluded in the contract and subsequently reached no written arbitration agreement, they may bring a lawsuit to the people's court.",
+    "google": "If the parties fail to enter into an arbitration clause in the economic contract and fail to reach a written arbitration agreement afterwards, they may file a lawsuit in the People's Court.",
+    "terms": [
+      {
+        "source": "当事人",
+        "target": "parties"
+      },
+      {
+        "source": "没有",
+        "target": "no"
+      },
+      {
+        "source": "经济合同",
+        "target": "contract"
+      },
+      {
+        "source": "订立",
+        "target": "concluded"
+      },
+      {
+        "source": "仲裁条款",
+        "target": "arbitral clause"
+      },
+      {
+        "source": "事后",
+        "target": "subsequently"
+      },
+      {
+        "source": "达成",
+        "target": "reached"
+      },
+      {
+        "source": "书面仲裁协议",
+        "target": "written arbitration agreement"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "人民法院",
+        "target": "people's court"
+      },
+      {
+        "source": "起诉",
+        "target": "bring a lawsuit"
+      }
+    ],
+    "sentence_id": 21,
+    "law": "中华人民共和国经济合同法",
+    "law_file": "Law_Corpus_Mainland_140_中华人民共和国经济合同法.json",
+    "record_id": 124,
+    "source_id": "经济合同法C174",
+    "target_ids": [
+      "经济合同法E174"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第九十七条　由于用人单位的原因订立的无效合同，对劳动者造成损害的，应当承担赔偿责任。",
+    "reference": "Article 97 The employing unit shall bear the responsibility for compensation if the conclusion of any invalid contracts is attributed to the unit and have caused damages to labourers.",
+    "target1": "Article 97: If an invalid contract is entered into due to reasons attributable to the employer and causes damage to the worker, the employer shall bear the liability for compensation.",
+    "target2": "Article 97: Where an invalid contract is entered into due to reasons attributable to the employer and causes damage to the employee, the employer shall bear the liability for compensation.",
+    "target3": "Article 97 If invalid contracts concluded due to reasons attributed to the employing unit caused damages to labourers, the employing unit shall bear responsibility for compensation.",
+    "google": "Article 97 If an invalid contract is concluded due to the employer's fault and causes damage to the employee, the employer shall be liable for compensation.",
+    "terms": [
+      {
+        "source": "第九十七条",
+        "target": "Article 97"
+      },
+      {
+        "source": "由于",
+        "target": "attributed to"
+      },
+      {
+        "source": "用人单位",
+        "target": "employing unit"
+      },
+      {
+        "source": "订立",
+        "target": "conclusion"
+      },
+      {
+        "source": "无效合同",
+        "target": "invalid contracts"
+      },
+      {
+        "source": "劳动者",
+        "target": "labourers"
+      },
+      {
+        "source": "造成损害",
+        "target": "caused damages"
+      },
+      {
+        "source": "应当",
+        "target": "shall"
+      },
+      {
+        "source": "承担",
+        "target": "bear"
+      },
+      {
+        "source": "赔偿责任",
+        "target": "responsibility for compensation"
+      }
+    ],
+    "sentence_id": 22,
+    "law": "中华人民共和国劳动法",
+    "law_file": "Law_Corpus_Mainland_146_中华人民共和国劳动法.json",
+    "record_id": 83,
+    "source_id": "劳动法C199",
+    "target_ids": [
+      "劳动法E199"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "前款规定以外的其他国家机关和社会团体、企业事业组织以及公民认为行政法规、地方性法规、自治条例和单行条例同宪法或者法律相抵触的，可以向全国人民代表大会常务委员会书面提出进行审查的建议，由常务委员会工作机构进行研究，必要时，送有关的专门委员会进行审查、提出意见。",
+    "reference": "Where any state organ and social group, enterprise or non-enterprise institution or citizen other than the bodies enumerated above, deems that an administrative regulation, local decree, autonomous decree or special decree contravenes the Constitution or a national law, it may make a written proposal to the Standing Committee of National People's Congress for review, and the office of operation of the Standing Committee shall study such proposal, and where necessary, it shall distribute such proposal to the relevant special committees for review and comments.",
+    "target1": "Where other state organs, social groups, enterprises and institutions, and citizens consider that administrative regulations, local regulations, autonomous regulations, and individual regulations conflict with the Constitution or laws outside of what is provided in the preceding paragraph, they may submit a written suggestion for review to the Standing Committee of the National People's Congress. The working bodies of the Standing Committee shall conduct research and, where necessary, send them to the relevant specialized committees for review and comments.",
+    "target2": "Where other state organs, social organizations, enterprises and institutions, and citizens consider that administrative regulations, local regulations, autonomous regulations, and individual regulations conflict with the Constitution or laws outside of what is provided in the preceding paragraph, they may submit a written proposal for review to the Standing Committee of the National People's Congress. The working bodies of the Standing Committee shall conduct research and, where necessary, send them to the relevant specialized committees for review and comments.",
+    "target3": "Where other than the bodies enumerated above, state organs and social groups, enterprises, non-enterprise institutions, and citizens deem that administrative regulations, local decrees, autonomous decrees, and special decrees contravene the Constitution or national law, they may make a written proposal to the Standing Committee of National People's Congress for review; the office of operation of the Standing Committee shall study the matter and, where necessary, distribute it to relevant special committees for review and comments.",
+    "google": "If other state organs and social groups, enterprises and institutions, as well as citizens other than those specified in the preceding paragraph believe that administrative regulations, local regulations, autonomous regulations and separate regulations conflict with the Constitution or laws, they may submit a written proposal for review to the Standing Committee of the National People's Congress, which will be studied by the working body of the Standing Committee, and if necessary, sent to the relevant special committee for review and opinions.",
+    "terms": [
+      {
+        "source": "前款规定以外的",
+        "target": "other than the bodies enumerated above"
+      },
+      {
+        "source": "国家机关",
+        "target": "state organ"
+      },
+      {
+        "source": "社会团体",
+        "target": "social group"
+      },
+      {
+        "source": "企业",
+        "target": "enterprise"
+      },
+      {
+        "source": "事业组织",
+        "target": "non-enterprise institution"
+      },
+      {
+        "source": "公民",
+        "target": "citizen"
+      },
+      {
+        "source": "认为",
+        "target": "deems"
+      },
+      {
+        "source": "行政法规",
+        "target": "administrative regulation"
+      },
+      {
+        "source": "地方性法规",
+        "target": "local decree"
+      },
+      {
+        "source": "自治条例",
+        "target": "autonomous decree"
+      },
+      {
+        "source": "单行条例",
+        "target": "special decree"
+      },
+      {
+        "source": "宪法",
+        "target": "Constitution"
+      },
+      {
+        "source": "法律",
+        "target": "national law"
+      },
+      {
+        "source": "相抵触",
+        "target": "contravenes"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "全国人民代表大会常务委员会",
+        "target": "Standing Committee of National People's Congress"
+      },
+      {
+        "source": "常务委员会",
+        "target": "Standing Committee"
+      },
+      {
+        "source": "书面提出",
+        "target": "make a written proposal"
+      },
+      {
+        "source": "审查",
+        "target": "review"
+      },
+      {
+        "source": "工作机构",
+        "target": "office of operation"
+      },
+      {
+        "source": "研究",
+        "target": "study"
+      },
+      {
+        "source": "必要时",
+        "target": "where necessary"
+      },
+      {
+        "source": "送",
+        "target": "distribute"
+      },
+      {
+        "source": "有关的",
+        "target": "relevant"
+      },
+      {
+        "source": "专门委员会",
+        "target": "special committees"
+      },
+      {
+        "source": "提出意见",
+        "target": "comments"
+      }
+    ],
+    "sentence_id": 23,
+    "law": "中华人民共和国立法法",
+    "law_file": "Law_Corpus_Mainland_147_中华人民共和国立法法.json",
+    "record_id": 142,
+    "source_id": "立法法C192",
+    "target_ids": [
+      "立法法E192"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第四十六条 冒充律师从事法律服务的，由公安机关责令停止非法执业，没收违法所得，可以并处五千元以下罚款、十五日以下拘留。",
+    "reference": "Article 46 A person who impersonates a lawyer and provides legal services shall be ordered by the public security authorities to cease the illegal practice of law, which shall confiscate his illegal income and may also impose a fine of no more than 5,000 yuan and detention of no more than 15 days.",
+    "target1": "Article 46: Anyone who poses as a lawyer to provide legal services shall be ordered by the public security organs to stop illegal practice and have their illegal gains confiscated, and may also be fined up to 5,000 yuan and detained for up to fifteen days.",
+    "target2": "Article 46 Persons who impersonate lawyers to provide legal services shall be ordered by public security organs to cease illegal practice and have their illegal gains confiscated, and may also be subject to a fine of not more than 5,000 yuan and detention for not more than fifteen days.",
+    "target3": "Article 46 Whoever impersonates a lawyer provides legal services shall be ordered by public security authorities to cease illegal practice of law, have illegal income confiscated, and may also impose a fine of no more than 5,000 yuan and detention of no more than 15 days.",
+    "google": "Article 46 Anyone who pretends to be a lawyer to provide legal services shall be ordered by the public security organ to stop illegal practice, his illegal gains shall be confiscated, and he may be fined not more than 5,000 yuan and detained for not more than 15 days.",
+    "terms": [
+      {
+        "source": "第四十六条",
+        "target": "Article 46"
+      },
+      {
+        "source": "冒充律师",
+        "target": "impersonates a lawyer"
+      },
+      {
+        "source": "从事",
+        "target": "provides"
+      },
+      {
+        "source": "法律服务",
+        "target": "legal services"
+      },
+      {
+        "source": "公安机关",
+        "target": "public security authorities"
+      },
+      {
+        "source": "责令",
+        "target": "ordered"
+      },
+      {
+        "source": "停止",
+        "target": "cease"
+      },
+      {
+        "source": "非法执业",
+        "target": "illegal practice of law"
+      },
+      {
+        "source": "没收",
+        "target": "confiscate"
+      },
+      {
+        "source": "违法所得",
+        "target": "illegal income"
+      },
+      {
+        "source": "可以并处",
+        "target": "may also impose"
+      },
+      {
+        "source": "五千元",
+        "target": "5,000 yuan"
+      },
+      {
+        "source": "以下",
+        "target": "no more than"
+      },
+      {
+        "source": "罚款",
+        "target": "fine"
+      },
+      {
+        "source": "十五日",
+        "target": "15 days"
+      },
+      {
+        "source": "拘留",
+        "target": "detention"
+      }
+    ],
+    "sentence_id": 24,
+    "law": "中华人民共和国律师法",
+    "law_file": "Law_Corpus_Mainland_149_中华人民共和国律师法.json",
+    "record_id": 61,
+    "source_id": "律师法C111",
+    "target_ids": [
+      "律师法E111"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第一百四十条 诉讼时效因提起诉讼、当事人一方提出要求或者同意履行义务而中断。从中断时起，诉讼时效期间重新计算。",
+    "reference": "Article 140 A limitation of action shall be discontinued if suit is brought or if one party makes a claim for or agrees to fulfillment of obligations. A new limitation shall be counted from the time of the discontinuance.",
+    "target1": "Article 140 The statute of limitations shall be interrupted by the filing of a lawsuit, the assertion of a claim by one party, or the agreement to perform an obligation. The period of limitation shall be recalculated from the time of interruption.",
+    "target2": "Article 140 The statute of limitations shall be interrupted by the filing of a lawsuit, the assertion of a claim by one party, or the agreement to perform an obligation. The period of limitation shall be recalculated from the time of interruption.",
+    "target3": "Article 140 The limitation of action is discontinued when a suit is brought, one party makes a claim or agrees to the fulfillment of obligations. From the time of the discontinuance, the new limitation shall be counted.",
+    "google": "Article 140 The statute of limitations is interrupted by the filing of a lawsuit or by one of the parties making a request or agreeing to perform its obligations. From the time of interruption, the statute of limitations period is recalculated.",
+    "terms": [
+      {
+        "source": "第一百四十条",
+        "target": "Article 140"
+      },
+      {
+        "source": "诉讼时效",
+        "target": "limitation of action"
+      },
+      {
+        "source": "提起诉讼",
+        "target": "suit is brought"
+      },
+      {
+        "source": "当事人一方",
+        "target": "one party"
+      },
+      {
+        "source": "提出要求",
+        "target": "makes a claim"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "同意",
+        "target": "agrees"
+      },
+      {
+        "source": "履行义务",
+        "target": "fulfillment of obligations"
+      },
+      {
+        "source": "中断",
+        "target": "discontinued"
+      },
+      {
+        "source": "中断时",
+        "target": "time of the discontinuance"
+      },
+      {
+        "source": "诉讼时效期间",
+        "target": "limitation"
+      },
+      {
+        "source": "重新计算",
+        "target": "new limitation shall be counted"
+      }
+    ],
+    "sentence_id": 25,
+    "law": "中华人民共和国民法通则",
+    "law_file": "Law_Corpus_Mainland_151_中华人民共和国民法通则.json",
+    "record_id": 184,
+    "source_id": "民法通则C355",
+    "target_ids": [
+      "民法通则E355"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第五十条 当事人有权委托代理人，提出回避申请，收集、提供证据，进行辩论，请求调解，提起上诉，申请执行。",
+    "reference": "Article 50 Parties to an action shall have the right to appoint agents, apply for withdrawals, collect and provide evidence, proffer arguments, request conciliation, file an appeal and apply for execution.",
+    "target1": "Article 50 The parties have the right to appoint agents, request recusal, collect and provide evidence, conduct debates, request mediation, file appeals, and apply for enforcement.",
+    "target2": "Article 50 The parties have the right to appoint agents, request recusal, collect and provide evidence, conduct debates, request mediation, file appeals, and apply for enforcement.",
+    "target3": "Article 50 Parties to an action have the right to appoint agents, apply for withdrawals, collect and provide evidence, proffer arguments, request conciliation, file an appeal, and apply for execution.",
+    "google": "Article 50 The parties have the right to appoint an agent, apply for recusal, collect and provide evidence, conduct debates, request mediation, file an appeal, and apply for enforcement.",
+    "terms": [
+      {
+        "source": "第五十条",
+        "target": "Article 50"
+      },
+      {
+        "source": "当事人",
+        "target": "Parties to an action"
+      },
+      {
+        "source": "有权",
+        "target": "have the right"
+      },
+      {
+        "source": "委托",
+        "target": "appoint"
+      },
+      {
+        "source": "代理人",
+        "target": "agents"
+      },
+      {
+        "source": "回避申请",
+        "target": "apply for withdrawals"
+      },
+      {
+        "source": "收集",
+        "target": "collect"
+      },
+      {
+        "source": "提供",
+        "target": "provide"
+      },
+      {
+        "source": "证据",
+        "target": "evidence"
+      },
+      {
+        "source": "进行辩论",
+        "target": "proffer arguments"
+      },
+      {
+        "source": "请求",
+        "target": "request"
+      },
+      {
+        "source": "调解",
+        "target": "conciliation"
+      },
+      {
+        "source": "提起上诉",
+        "target": "file an appeal"
+      },
+      {
+        "source": "申请执行",
+        "target": "apply for execution"
+      }
+    ],
+    "sentence_id": 26,
+    "law": "中华人民共和国民事诉讼法",
+    "law_file": "Law_Corpus_Mainland_152_中华人民共和国民事诉讼法.json",
+    "record_id": 64,
+    "source_id": "民事诉讼法C161",
+    "target_ids": [
+      "民事诉讼法E161"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第一百八十九条 民用航空器对地面第三人的损害赔偿，适用侵权行为地法律。",
+    "reference": "Article 189 The law of the place where an act of tort occurred shall be applicable to indemnity for damage caused by a civil aircraft to third parties on the surface.",
+    "target1": "Article 189 Damage compensation for civil aircraft to third parties on the ground shall be governed by the laws of the jurisdiction where the tort occurred.",
+    "target2": "Article 189 Damage caused by civil aircraft to a third person on the ground shall be governed by the law of the place where the tort occurred.",
+    "target3": "Article 189 Indemnity for damage caused by civil aircraft to third parties on the surface shall be governed by the law of the place where an act of tort occurred.",
+    "google": "Article 189 Compensation for damages caused by a civil aircraft to a third party on the ground shall be governed by the law of the place where the infringement occurred.",
+    "terms": [
+      {
+        "source": "第一百八十九条",
+        "target": "Article 189"
+      },
+      {
+        "source": "民用航空器",
+        "target": "civil aircraft"
+      },
+      {
+        "source": "地面第三人",
+        "target": "third parties on the surface"
+      },
+      {
+        "source": "损害赔偿",
+        "target": "indemnity for damage"
+      },
+      {
+        "source": "适用",
+        "target": "applicable"
+      },
+      {
+        "source": "侵权行为地法律",
+        "target": "law of the place where an act of tort occurred"
+      }
+    ],
+    "sentence_id": 27,
+    "law": "中华人民共和国民用航空法",
+    "law_file": "Law_Corpus_Mainland_153_中华人民共和国民用航空法.json",
+    "record_id": 229,
+    "source_id": "民用航空法C467",
+    "target_ids": [
+      "民用航空法E467"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第三十七条 背书人以背书转让汇票后，即承担保证其后手所持汇票承兑和付款的责任。背书人在汇票得不到承兑或者付款时，应当向持票人清偿本法第七十条、第七十一条规定的金额和费用。",
+    "reference": "Article 37 An endorser is liable for guaranteeing the acceptance and payment of the bill of exchange held by his subsequent party after he negotiates the bill by endorsement. The endorser shall pay off the sum and expenses, as stipulated in Articles 70 and 71 of this Law, to the holder in case of non - acceptance or non - payment of the bill.",
+    "target1": "Article 37 After an endorser transfers a bill by endorsement, they shall be liable to guarantee the acceptance and payment of the bill held by their successor. In the event that the bill is not accepted or paid, the endorser shall settle the amounts and expenses stipulated in Articles 70 and 71 of this Law to the holder.",
+    "target2": "Article 37 After an endorser transfers a bill by endorsement, they shall assume responsibility for the acceptance and payment of the bill held by their successor. In the event that the bill is not accepted or paid, the endorser shall settle the amounts and expenses stipulated in Articles 70 and 71 of this Law to the holder.",
+    "target3": "Article 37 After the endorser negotiates the bill of exchange by endorsement, they shall be liable for guaranteeing the acceptance and payment of the bill of exchange held by the subsequent party. In the event of non-acceptance or non-payment of the bill of exchange, the endorser shall pay off the sum and expenses stipulated in Articles 70 and 71 of this Law to the holder.",
+    "google": "Article 37 After the endorser transfers a bill by endorsement, he shall be responsible for ensuring the acceptance and payment of the bill held by his successor. When the bill of exchange is not accepted or paid, the endorser shall repay the amount and expenses specified in Articles 70 and 71 of this Law to the holder.",
+    "terms": [
+      {
+        "source": "第三十七条",
+        "target": "Article 37"
+      },
+      {
+        "source": "背书人",
+        "target": "endorser"
+      },
+      {
+        "source": "背书",
+        "target": "endorsement"
+      },
+      {
+        "source": "转让",
+        "target": "negotiates"
+      },
+      {
+        "source": "汇票",
+        "target": "bill of exchange"
+      },
+      {
+        "source": "后",
+        "target": "after"
+      },
+      {
+        "source": "承担",
+        "target": "liable"
+      },
+      {
+        "source": "保证",
+        "target": "guaranteeing"
+      },
+      {
+        "source": "后手",
+        "target": "subsequent party"
+      },
+      {
+        "source": "所持",
+        "target": "held"
+      },
+      {
+        "source": "承兑",
+        "target": "acceptance"
+      },
+      {
+        "source": "付款",
+        "target": "payment"
+      },
+      {
+        "source": "得不到承兑",
+        "target": "non - acceptance"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "应当",
+        "target": "shall"
+      },
+      {
+        "source": "持票人",
+        "target": "holder"
+      },
+      {
+        "source": "清偿",
+        "target": "pay off"
+      },
+      {
+        "source": "本法",
+        "target": "this Law"
+      },
+      {
+        "source": "第七十条",
+        "target": "Articles 70"
+      },
+      {
+        "source": "第七十一条",
+        "target": "71"
+      },
+      {
+        "source": "规定",
+        "target": "stipulated"
+      },
+      {
+        "source": "金额",
+        "target": "sum"
+      },
+      {
+        "source": "费用",
+        "target": "expenses"
+      }
+    ],
+    "sentence_id": 28,
+    "law": "中华人民共和国票据法",
+    "law_file": "Law_Corpus_Mainland_158_中华人民共和国票据法.json",
+    "record_id": 74,
+    "source_id": "票据法C093",
+    "target_ids": [
+      "票据法E093"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "破产企业的上级主管部门对企业破产负有主要责任的，对该上级主管部门的领导人，给予行政处分。",
+    "reference": "Where the superior departments in charge of the bankrupt enterprise bear the major responsibility for the bankruptcy of the enterprise, administrative sanctions shall be applied to the leaders of such superior departments in charge.",
+    "target1": "Where the superior competent department of a bankrupt enterprise bears primary responsibility for its bankruptcy, administrative sanctions shall be imposed on the leaders of that superior competent department.",
+    "target2": "Where the superior competent authority of a bankrupt enterprise bears primary responsibility for its bankruptcy, administrative sanctions shall be imposed on the leaders of said superior competent authority.",
+    "target3": "Where the superior departments in charge of a bankrupt enterprise bear major responsibility for the bankruptcy of the enterprise, administrative sanctions shall be applied to the leaders of such superior departments in charge.",
+    "google": "If the superior authority of a bankrupt enterprise bears primary responsibility for the bankruptcy of the enterprise, administrative sanctions shall be imposed on the leader of the superior authority.",
+    "terms": [
+      {
+        "source": "破产企业",
+        "target": "bankrupt enterprise"
+      },
+      {
+        "source": "上级主管部门",
+        "target": "superior departments in charge"
+      },
+      {
+        "source": "企业破产",
+        "target": "bankruptcy of the enterprise"
+      },
+      {
+        "source": "负有",
+        "target": "bear"
+      },
+      {
+        "source": "主要责任",
+        "target": "major responsibility"
+      },
+      {
+        "source": "领导人",
+        "target": "leaders"
+      },
+      {
+        "source": "给予",
+        "target": "applied"
+      },
+      {
+        "source": "行政处分",
+        "target": "administrative sanctions"
+      }
+    ],
+    "sentence_id": 29,
+    "law": "中华人民共和国企业破产法_试行",
+    "law_file": "Law_Corpus_Mainland_160_中华人民共和国企业破产法_试行.json",
+    "record_id": 3,
+    "source_id": "破产法（试行)COO102",
+    "target_ids": [
+      "破产法E102"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第四十条 假冒他人注册商标，构成犯罪的，除赔偿被侵权人的损失外，依法追究刑事责任。",
+    "reference": "Article 40. Where any party passes off a registered trademark of another person, and the case is so serious as to constitute a crime, he shall be prosecuted, according to law, for his criminal liabilities in addition to his compensation for the damages suffered by the infringee.",
+    "target1": "Article 40: Where forging another person's registered trademark constitutes a crime, criminal responsibility shall be pursued in accordance with the law, in addition to compensating the losses of the infringed party.",
+    "target2": "Article 40 Where the counterfeiting of another's registered trademark constitutes a crime, criminal responsibility shall be pursued in accordance with the law, in addition to compensating the losses of the infringed party.",
+    "target3": "Article 40 If passing off another person's registered trademark constitutes a crime, in addition to compensation for the damages of the infringee, criminal responsibility shall be prosecuted according to law.",
+    "google": "Article 40 If counterfeiting someone else’s registered trademark constitutes a crime, in addition to compensating the infringed party’s losses, criminal liability shall be pursued in accordance with the law.",
+    "terms": [
+      {
+        "source": "第四十条",
+        "target": "Article 40"
+      },
+      {
+        "source": "假冒",
+        "target": "passes off"
+      },
+      {
+        "source": "他人",
+        "target": "another person"
+      },
+      {
+        "source": "注册商标",
+        "target": "registered trademark"
+      },
+      {
+        "source": "构成犯罪",
+        "target": "constitute a crime"
+      },
+      {
+        "source": "除",
+        "target": "in addition to"
+      },
+      {
+        "source": "赔偿",
+        "target": "compensation"
+      },
+      {
+        "source": "被侵权人",
+        "target": "infringee"
+      },
+      {
+        "source": "损失",
+        "target": "damages"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "追究刑事责任",
+        "target": "prosecuted"
+      }
+    ],
+    "sentence_id": 30,
+    "law": "中华人民共和国商标法",
+    "law_file": "Law_Corpus_Mainland_168_中华人民共和国商标法.json",
+    "record_id": 52,
+    "source_id": "商标法C080",
+    "target_ids": [
+      "商标法E080"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第四十七条 被审计单位的财政收支、财务收支违反法律、行政法规的规定，构成犯罪的，依法追究刑事责任。",
+    "reference": "Article 47 If an auditee violates the provisions of relevant laws or administrative rules and regulations governing budgetary revenues and expenditures or financial revenues and expenditures and if the case constitutes a crime, the auditee shall be investigated for criminal responsibility according to law.",
+    "target1": "Article 47: If the financial income and expenditures of the audited entity violate the provisions of laws or administrative regulations, or constitute a crime, criminal responsibility shall be pursued in accordance with the law.",
+    "target2": "Article 47: Where the financial income and expenditures or the financial receipts and payments of the audited entity violate the provisions of laws or administrative regulations and constitute a crime, criminal responsibility shall be pursued in accordance with the law.",
+    "target3": "Article 47 If the budgetary revenues and expenditures or financial revenues and expenditures of the auditee violates the provisions of laws or administrative rules and regulations and constitutes a crime, criminal responsibility shall be investigated for according to law.",
+    "google": "Article 47 If the fiscal revenue and expenditure of the audited unit violates the provisions of laws and administrative regulations and constitutes a crime, criminal responsibility shall be pursued in accordance with the law.",
+    "terms": [
+      {
+        "source": "第四十七条",
+        "target": "Article 47"
+      },
+      {
+        "source": "被审计单位",
+        "target": "auditee"
+      },
+      {
+        "source": "财政收支",
+        "target": "budgetary revenues and expenditures"
+      },
+      {
+        "source": "财务收支",
+        "target": "financial revenues and expenditures"
+      },
+      {
+        "source": "违反",
+        "target": "violates"
+      },
+      {
+        "source": "法律",
+        "target": "laws"
+      },
+      {
+        "source": "行政法规",
+        "target": "administrative rules and regulations"
+      },
+      {
+        "source": "规定",
+        "target": "provisions"
+      },
+      {
+        "source": "构成犯罪",
+        "target": "constitutes a crime"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "追究刑事责任",
+        "target": "investigated for criminal responsibility"
+      }
+    ],
+    "sentence_id": 31,
+    "law": "中华人民共和国审计法",
+    "law_file": "Law_Corpus_Mainland_171_中华人民共和国审计法.json",
+    "record_id": 64,
+    "source_id": "审计法C068",
+    "target_ids": [
+      "审计法E068"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "当事人对税务机关的处罚决定逾期不申请复议也不向人民法院起诉、又不履行的，作出处罚决定的税务机关可以申请人民法院强制执行。",
+    "reference": "If the party concerned neither applies for a reconsideration of the sanction decision made by the tax authorities and institutes legal proceedings with the People's Court within the prescribed time limit nor complies with the sanction decision, the tax authorities which have made the sanction decision may apply to the People's Court for mandatory enforcement of the decision",
+    "target1": "If a party fails to apply for reconsideration or file a lawsuit with the People's Court within the time limit after a tax authority's penalty decision, and also fails to perform the decision, the tax authority that issued the penalty decision may apply to the People's Court for compulsory enforcement.",
+    "target2": "Where a party fails to apply for reconsideration or initiate litigation in a People's Court within the time limit, and fails to perform the penalty decision of a tax authority, the tax authority that issued the penalty decision may apply to a People's Court for compulsory enforcement.",
+    "target3": "If a party concerned neither applies for a reconsideration nor institutes legal proceedings in the People's Court, and nor complies with the sanction decision of the tax authorities within the prescribed time limit, the tax authorities that made the sanction decision may apply to the People's Court for mandatory enforcement.",
+    "google": "If a party fails to apply for reconsideration of the tax authority's penalty decision within the time limit, does not file a lawsuit with the People's Court, and fails to comply, the tax authority that made the penalty decision may apply to the People's Court for compulsory enforcement.",
+    "terms": [
+      {
+        "source": "当事人",
+        "target": "party concerned"
+      },
+      {
+        "source": "税务机关",
+        "target": "tax authorities"
+      },
+      {
+        "source": "处罚决定",
+        "target": "sanction decision"
+      },
+      {
+        "source": "逾期",
+        "target": "within the prescribed time limit"
+      },
+      {
+        "source": "申请复议",
+        "target": "applies for a reconsideration"
+      },
+      {
+        "source": "申请",
+        "target": "apply"
+      },
+      {
+        "source": "人民法院",
+        "target": "People's Court"
+      },
+      {
+        "source": "起诉",
+        "target": "institutes legal proceedings"
+      },
+      {
+        "source": "不履行",
+        "target": "nor complies"
+      },
+      {
+        "source": "作出",
+        "target": "made"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "强制执行",
+        "target": "mandatory enforcement"
+      }
+    ],
+    "sentence_id": 32,
+    "law": "中华人民共和国税收征收管理法",
+    "law_file": "Law_Corpus_Mainland_177_中华人民共和国税收征收管理法.json",
+    "record_id": 82,
+    "source_id": "税征收管理C108",
+    "target_ids": [
+      "税征收管理E108"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "国家依法实行国有土地有偿使用制度。但是，国家在法律规定的范围内划拨国有土地使用权的除外。",
+    "reference": "The State introduces the system of compensated use of land owned by the State except the land has been allocated for use by the State according to law.",
+    "target1": "The state implements a system of paid use of state-owned land in accordance with the law. However, exceptions are made for the allocation of state-owned land use rights within the scope prescribed by law.",
+    "target2": "The state implements a system of paid use of state-owned land in accordance with the law. However, exceptions are made for the allocation of state-owned land use rights within the scope prescribed by law.",
+    "target3": "The State introduces the system of compensated use of land owned by the State according to law. However, exceptions are made for the allocation of land owned by the State use rights within the scope prescribed by law.",
+    "google": "The state implements a system of paid use of state-owned land in accordance with the law. However, this is except where the state allocates state-owned land use rights within the scope prescribed by law.",
+    "terms": [
+      {
+        "source": "国家",
+        "target": "State"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "实行",
+        "target": "introduces"
+      },
+      {
+        "source": "国有土地",
+        "target": "land owned by the State"
+      },
+      {
+        "source": "有偿使用",
+        "target": "compensated use"
+      },
+      {
+        "source": "制度",
+        "target": "system"
+      },
+      {
+        "source": "划拨",
+        "target": "allocated"
+      },
+      {
+        "source": "除外",
+        "target": "except"
+      }
+    ],
+    "sentence_id": 33,
+    "law": "中华人民共和国土地管理法",
+    "law_file": "Law_Corpus_Mainland_183_中华人民共和国土地管理法.json",
+    "record_id": 5,
+    "source_id": "土地管理法c015",
+    "target_ids": [
+      "土地管理法e015"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "金融机构经批准终止经营外汇业务的，应当依法进行外汇债权、债务的清算，并缴销经营外汇业务许可证。",
+    "reference": "Once the termination of foreign exchange operations is approved, these financial institutions shall settle their claims and liabilities in foreign currencies and have their license for foreign exchange operations revoked.",
+    "target1": "Where a financial institution is approved to terminate its foreign exchange business, it shall conduct the liquidation of foreign exchange claims and debts in accordance with the law and cancel its foreign exchange business license.",
+    "target2": "Where a financial institution is approved to terminate its foreign exchange business, it shall conduct the liquidation of foreign exchange claims and debts in accordance with the law and cancel its foreign exchange business license.",
+    "target3": "Where a financial institution terminates its foreign exchange operations as approved, it shall settle foreign currency claims and liabilities in accordance with the law and have its license for foreign exchange operations revoked.",
+    "google": "If a financial institution terminates its foreign exchange business upon approval, it shall liquidate its foreign exchange claims and debts in accordance with the law and cancel its foreign exchange business license.",
+    "terms": [
+      {
+        "source": "金融机构",
+        "target": "financial institutions"
+      },
+      {
+        "source": "经批准",
+        "target": "approved"
+      },
+      {
+        "source": "终止",
+        "target": "termination"
+      },
+      {
+        "source": "经营外汇业务",
+        "target": "foreign exchange operations"
+      },
+      {
+        "source": "外汇",
+        "target": "foreign currencies"
+      },
+      {
+        "source": "应当",
+        "target": "shall"
+      },
+      {
+        "source": "债权、债务",
+        "target": "claims and liabilities"
+      },
+      {
+        "source": "清算",
+        "target": "settle"
+      },
+      {
+        "source": "缴销",
+        "target": "revoked"
+      },
+      {
+        "source": "经营外汇业务许可证",
+        "target": "license for foreign exchange operations"
+      }
+    ],
+    "sentence_id": 34,
+    "law": "中华人民共和国外汇管理条例",
+    "law_file": "Law_Corpus_Mainland_186_中华人民共和国外汇管理条例.json",
+    "record_id": 43,
+    "source_id": "外汇管理条例c054",
+    "target_ids": [
+      "外汇管理条例e054"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "外资企业拒绝在中国境内设置会计帐簿的，财政税务机关可以处以罚款，工商行政管理机关可以责令停止营业或者吊销营业执照。",
+    "reference": "If an enterprise with foreign capital refuses to maintain account books in China, the financial and tax authorities may impose a fine on it, and the industry and commerce administration authorities may order it to suspend operations or may revoke its business licence.",
+    "target1": "Foreign-funded enterprises that refuse to set up accounting books within the territory of China may be fined by fiscal and tax authorities, and administrative organs for industry and commerce may order them to suspend operations or revoke their business licenses.",
+    "target2": "Where a foreign-funded enterprise refuses to establish accounting books within the territory of China, the financial and tax authorities may impose fines, and the industrial and commercial administration authorities may order the cessation of business or revoke the business license.",
+    "target3": "If an enterprise with foreign capital refuses to maintain account books in China, the financial and tax authorities may impose a fine, and the industry and commerce administration authorities may order it to suspend operations or revoke its business licence.",
+    "google": "If a foreign-invested enterprise refuses to set up accounting books in China, the financial and taxation authorities may impose a fine, and the industrial and commercial administration authorities may order it to cease operations or revoke its business license.",
+    "terms": [
+      {
+        "source": "外资企业",
+        "target": "enterprise with foreign capital"
+      },
+      {
+        "source": "拒绝",
+        "target": "refuses"
+      },
+      {
+        "source": "在中国境内",
+        "target": "in China"
+      },
+      {
+        "source": "设置",
+        "target": "maintain"
+      },
+      {
+        "source": "会计帐簿",
+        "target": "account books"
+      },
+      {
+        "source": "财政税务机关",
+        "target": "financial and tax authorities"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "处以罚款",
+        "target": "impose a fine"
+      },
+      {
+        "source": "工商行政管理机关",
+        "target": "industry and commerce administration authorities"
+      },
+      {
+        "source": "责令",
+        "target": "order"
+      },
+      {
+        "source": "停止营业",
+        "target": "suspend operations"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "吊销",
+        "target": "revoke"
+      },
+      {
+        "source": "营业执照",
+        "target": "business licence"
+      }
+    ],
+    "sentence_id": 35,
+    "law": "中华人民共和国外资企业法",
+    "law_file": "Law_Corpus_Mainland_190_中华人民共和国外资企业法.json",
+    "record_id": 22,
+    "source_id": "外资企业法c023",
+    "target_ids": [
+      "外资企业法e023"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "由于国家机关和国家工作人员侵犯公民权利而受到损失的人，有依照法律规定取得赔偿的权利。",
+    "reference": "Citizens who have suffered losses as a result of infringement of their civic rights by any state organ or functionary have the right to compensation in accordance with the law.",
+    "target1": "Persons who have suffered losses due to the infringement of their rights by state organs and state personnel have the right to obtain compensation in accordance with the provisions of the law.",
+    "target2": "Persons who have suffered losses due to the infringement of their rights by state organs or state personnel shall have the right to obtain compensation in accordance with the provisions of law.",
+    "target3": "Persons who suffered losses as a result of the infringement of civic rights by state organs and functionaries have the right to obtain compensation in accordance with the law.",
+    "google": "People who have suffered losses due to violations of civil rights by state agencies and state functionaries have the right to obtain compensation in accordance with legal provisions.",
+    "terms": [
+      {
+        "source": "由于",
+        "target": "as a result of"
+      },
+      {
+        "source": "国家机关",
+        "target": "state organ"
+      },
+      {
+        "source": "国家工作人员",
+        "target": "functionary"
+      },
+      {
+        "source": "侵犯",
+        "target": "infringement"
+      },
+      {
+        "source": "公民权利",
+        "target": "civic rights"
+      },
+      {
+        "source": "权利",
+        "target": "right"
+      },
+      {
+        "source": "受到损失",
+        "target": "suffered losses"
+      },
+      {
+        "source": "依照法律规定",
+        "target": "in accordance with the law"
+      },
+      {
+        "source": "赔偿",
+        "target": "compensation"
+      }
+    ],
+    "sentence_id": 36,
+    "law": "中华人民共和国宪法",
+    "law_file": "Law_Corpus_Mainland_194_中华人民共和国宪法.json",
+    "record_id": 85,
+    "source_id": "宪法c137",
+    "target_ids": [
+      "宪法e137"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "除本法第八十八条和第八十九条规定的程序外，香港特别行政区终审法院的法官和高等法院首席法官的任命或免职，还须由行政长官征得立法会同意，并报全国人民代表大会常务委员会备案。",
+    "reference": "In the case of the appointment or removal of judges of the Court of Final Appeal and the Chief Judge of the High Court of the Hong Kong Special Administrative Region, the Chief Executive shall, in addition to following the procedures prescribed in Articles 88 and 89 of this Law, obtain the endorsement of the Legislative Council and report such appointment or removal to the Standing Committee of the National People's Congress for the record.",
+    "target1": "In addition to the procedures prescribed in Articles 88 and 89 of this Law, the appointment or removal of judges of the Court of Final Appeal and the Chief Justice of the High Court of the Hong Kong Special Administrative Region shall also be subject to the consent of the Legislative Council as requested by the Chief Executive, and shall be reported to the Standing Committee of the National People's Congress for the record.",
+    "target2": "In addition to the procedures prescribed in Articles 88 and 89 of this Law, the appointment or removal of judges of the Court of Final Appeal and the Chief Justice of the High Court of the Hong Kong Special Administrative Region shall also be subject to the consent of the Legislative Council as requested by the Chief Executive, and shall be reported to the Standing Committee of the National People's Congress for the record.",
+    "target3": "In addition to the procedures prescribed in Articles 88 and 89 of this Law, the appointment or removal of judges of the Court of Final Appeal of the Hong Kong Special Administrative Region and the Chief Judge of the High Court shall also obtain the endorsement of the Legislative Council from the Chief Executive and be reported to the Standing Committee of the National People's Congress for the record.",
+    "google": "In addition to the procedures stipulated in Articles 88 and 89 of this Law, the appointment or removal of judges of the Court of Final Appeal and the Chief Judge of the High Court of the Hong Kong Special Administrative Region must be obtained by the Chief Executive with the consent of the Legislative Council and reported to the Standing Committee of the National People's Congress for record.",
+    "terms": [
+      {
+        "source": "除",
+        "target": "in addition to"
+      },
+      {
+        "source": "本法",
+        "target": "this Law"
+      },
+      {
+        "source": "第八十八条",
+        "target": "Articles 88"
+      },
+      {
+        "source": "第八十九条",
+        "target": "89"
+      },
+      {
+        "source": "规定",
+        "target": "prescribed"
+      },
+      {
+        "source": "程序",
+        "target": "procedures"
+      },
+      {
+        "source": "香港特别行政区",
+        "target": "Hong Kong Special Administrative Region"
+      },
+      {
+        "source": "终审法院",
+        "target": "Court of Final Appeal"
+      },
+      {
+        "source": "法官",
+        "target": "judges"
+      },
+      {
+        "source": "高等法院首席法官",
+        "target": "Chief Judge of the High Court"
+      },
+      {
+        "source": "任命",
+        "target": "appointment"
+      },
+      {
+        "source": "免职",
+        "target": "removal"
+      },
+      {
+        "source": "行政长官",
+        "target": "Chief Executive"
+      },
+      {
+        "source": "征得",
+        "target": "obtain"
+      },
+      {
+        "source": "立法会",
+        "target": "Legislative Council"
+      },
+      {
+        "source": "同意",
+        "target": "endorsement"
+      },
+      {
+        "source": "报",
+        "target": "report"
+      },
+      {
+        "source": "全国人民代表大会常务委员会",
+        "target": "Standing Committee of the National People's Congress"
+      },
+      {
+        "source": "备案",
+        "target": "for the record"
+      }
+    ],
+    "sentence_id": 37,
+    "law": "中华人民共和国香港特别行政区基本法",
+    "law_file": "Law_Corpus_Mainland_196_中华人民共和国香港特别行政区基本法.json",
+    "record_id": 144,
+    "source_id": "香港基本法c204",
+    "target_ids": [
+      "香港基本法e204"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第二十四条 经营者不得以格式合同、通知、声明、店堂告示等方式作出对消费者不公平、不合理的规定，或者减轻、免除其损害消费者合法权益应当承担的民事责任。",
+    "reference": "Article 24 A business operator shall not be permitted to set unreasonable or unfair terms for consumers or alleviate or release itself from civil liability for harming the legal rights and interests of consumers by means of standard contracts, circulars, announcements, shop notices, etc.",
+    "target1": "Article 24: Operators shall not make unfair or unreasonable provisions against consumers, nor reduce or exempt their civil liability for infringing upon the legitimate rights and interests of consumers, through means such as standard contracts, notices, statements, shop signs, and other similar methods.",
+    "target2": "Article 24: Operators shall not make unfair or unreasonable provisions against consumers, nor reduce or exempt their civil liability for infringing upon the legitimate rights and interests of consumers, through means such as standardized contracts, notices, statements, shop signs, and other similar methods.",
+    "target3": "Article 24 A business operator shall not be permitted to make unfair or unreasonable terms for consumers by means of standard contracts, circulars, announcements, shop notices, etc., or alleviate or release its civil liability that it should bear for harming the legal rights and interests of consumers.",
+    "google": "Article 24 Operators shall not make unfair or unreasonable provisions for consumers through standard contracts, notices, statements, store notices, etc., or reduce or exempt them from civil liability for harming the legitimate rights and interests of consumers.",
+    "terms": [
+      {
+        "source": "第二十四条",
+        "target": "Article 24"
+      },
+      {
+        "source": "经营者",
+        "target": "business operator"
+      },
+      {
+        "source": "不得",
+        "target": "shall not be permitted"
+      },
+      {
+        "source": "格式合同",
+        "target": "standard contracts"
+      },
+      {
+        "source": "通知",
+        "target": "circulars"
+      },
+      {
+        "source": "声明",
+        "target": "announcements"
+      },
+      {
+        "source": "店堂告示",
+        "target": "shop notices"
+      },
+      {
+        "source": "等",
+        "target": "etc."
+      },
+      {
+        "source": "方式",
+        "target": "by means of"
+      },
+      {
+        "source": "消费者",
+        "target": "consumers"
+      },
+      {
+        "source": "不公平",
+        "target": "unfair"
+      },
+      {
+        "source": "不合理",
+        "target": "unreasonable"
+      },
+      {
+        "source": "规定",
+        "target": "terms"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "减轻",
+        "target": "alleviate"
+      },
+      {
+        "source": "免除",
+        "target": "release"
+      },
+      {
+        "source": "损害",
+        "target": "harming"
+      },
+      {
+        "source": "合法权益",
+        "target": "legal rights and interests"
+      },
+      {
+        "source": "民事责任",
+        "target": "civil liability"
+      }
+    ],
+    "sentence_id": 38,
+    "law": "中华人民共和国消费者权益保护法",
+    "law_file": "Law_Corpus_Mainland_199_中华人民共和国消费者权益保护法.json",
+    "record_id": 39,
+    "source_id": "消权保护法c042",
+    "target_ids": [
+      "消权保护法e042"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第五十二条 信托不因委托人或者受托人的死亡、丧失民事行为能力、依法解散、被依法撤销或者被宣告破产而终止，也不因受托人的辞任而终止。但本法或者信托文件另有规定的除外。",
+    "reference": "Article 52 The trust shall not terminate because the trustor or the trustee dies, loses civil capacity, disbands according to law, or is canceled or declared bankrupt according to law, neither shall the trust terminate because the trustee resigns, unless there are otherwise provisions in this Law or the trust documents.",
+    "target1": "Article 52 A trust shall not be terminated by the death or loss of civil capacity of the settlor or trustee, the legal dissolution, legal revocation, or declaration of bankruptcy of the trust, nor by the resignation of the trustee, unless otherwise provided by this Law or the trust documents.",
+    "target2": "Article 52 A trust shall not be terminated by the death of the settlor or the trustee, the loss of civil capacity of either party, dissolution in accordance with law, revocation in accordance with law, declaration of bankruptcy, or the resignation of the trustee, unless otherwise provided by this Law or the trust documents.",
+    "target3": "Article 52 The trust shall not be terminated due to the death, loss of civil capacity, dissolution according to law, being canceled according to law, or being declared bankrupt of the trustor or trustee, nor shall it be terminated due to the resignation of the trustee, unless otherwise provisions in this Law or the trust documents.",
+    "google": "Article 52 A trust shall not terminate due to the death of the trustor or trustee, loss of civil capacity, legal dissolution, legal revocation or declaration of bankruptcy, nor shall it terminate due to the resignation of the trustee. Except as otherwise provided in this Law or the trust document.",
+    "terms": [
+      {
+        "source": "第五十二条",
+        "target": "Article 52"
+      },
+      {
+        "source": "信托",
+        "target": "trust"
+      },
+      {
+        "source": "委托人",
+        "target": "trustor"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "受托人",
+        "target": "trustee"
+      },
+      {
+        "source": "死亡",
+        "target": "dies"
+      },
+      {
+        "source": "丧失民事行为能力",
+        "target": "loses civil capacity"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "解散",
+        "target": "disbands"
+      },
+      {
+        "source": "撤销",
+        "target": "canceled"
+      },
+      {
+        "source": "宣告破产",
+        "target": "declared bankrupt"
+      },
+      {
+        "source": "终止",
+        "target": "terminate"
+      },
+      {
+        "source": "辞任",
+        "target": "resigns"
+      },
+      {
+        "source": "本法",
+        "target": "this Law"
+      },
+      {
+        "source": "信托文件",
+        "target": "trust documents"
+      },
+      {
+        "source": "另有规定",
+        "target": "otherwise provisions"
+      },
+      {
+        "source": "除外",
+        "target": "unless"
+      }
+    ],
+    "sentence_id": 39,
+    "law": "中华人民共和国信托法",
+    "law_file": "Law_Corpus_Mainland_200_中华人民共和国信托法.json",
+    "record_id": 94,
+    "source_id": "信托法c136",
+    "target_ids": [
+      "信托法e136"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第六十九条 判决宣告以前一人犯数罪的，除判处死刑和无期徒刑的以外，应当在总和刑期以下、数刑中最高刑期以上，酌情决定执行的刑期，但是管制最高不能超过三年，拘役最高不能超过一年，有期徒刑最高不能超过二十年。",
+    "reference": "Article 69 For a criminal who commits several crimes before a judgment is pronounced, unless he is sentenced to death or life imprisonment, his term of punishment shall be not more than the total of the terms for all the crimes but not less than the longest of the terms for the crimes, depending on the circumstances of the crimes. However, the term of public surveillance may not exceed the maximum of three years, the term of criminal detention may not exceed the maximum of one year, and fixed- term imprisonment may not exceed the maximum of 20 years.",
+    "target1": "Article 69 Where a person is convicted of multiple crimes, except for the death penalty and life imprisonment, the term of imprisonment shall be determined at the court's discretion to be more than the longest sentence among the multiple sentences but less than the total sum of the terms; however, the maximum period of restriction shall not exceed three years, the maximum period of detention shall not exceed one year, and the maximum period of fixed-term imprisonment shall not exceed twenty years.",
+    "target2": "Article 69 Where a person is convicted of multiple crimes, except for the death penalty and life imprisonment, the term of imprisonment to be executed shall be determined at the court's discretion between the maximum term among the multiple sentences and the total sum of the terms; provided that the maximum period of restriction shall not exceed three years, the maximum period of detention shall not exceed one year, and the maximum period of fixed-term imprisonment shall not exceed twenty years.",
+    "target3": "Article 69 If a person commits several crimes before the judgment is pronounced, unless sentenced to death or life imprisonment, the term of punishment to be executed shall be determined depending on the circumstances between the longest of the terms and not more than the total of the terms; however, public surveillance may not exceed three years, criminal detention may not exceed one year, and fixed-term imprisonment may not exceed 20 years.",
+    "google": "Article 69: If a person commits several crimes before the judgment is pronounced, except for those sentenced to death or life imprisonment, the sentence to be executed shall be less than the total sentence and more than the highest among the several sentences. The execution of the sentence shall be determined at the discretion, but the maximum limit of control shall not exceed three years, the maximum limit of criminal detention shall not exceed one year, and the maximum limit of fixed-term imprisonment shall not exceed 20 years.",
+    "terms": [
+      {
+        "source": "第六十九条",
+        "target": "Article 69"
+      },
+      {
+        "source": "判决",
+        "target": "judgment"
+      },
+      {
+        "source": "宣告",
+        "target": "pronounced"
+      },
+      {
+        "source": "以前",
+        "target": "before"
+      },
+      {
+        "source": "数罪",
+        "target": "several crimes"
+      },
+      {
+        "source": "除",
+        "target": "unless"
+      },
+      {
+        "source": "判处",
+        "target": "sentenced"
+      },
+      {
+        "source": "死刑",
+        "target": "death"
+      },
+      {
+        "source": "无期徒刑",
+        "target": "life imprisonment"
+      },
+      {
+        "source": "总和刑期",
+        "target": "total of the terms"
+      },
+      {
+        "source": "刑期",
+        "target": "term of punishment"
+      },
+      {
+        "source": "以下",
+        "target": "not more than"
+      },
+      {
+        "source": "最高刑期",
+        "target": "longest of the terms"
+      },
+      {
+        "source": "最高",
+        "target": "maximum"
+      },
+      {
+        "source": "以上",
+        "target": "not less than"
+      },
+      {
+        "source": "酌情",
+        "target": "depending on the circumstances"
+      },
+      {
+        "source": "但是",
+        "target": "However"
+      },
+      {
+        "source": "管制",
+        "target": "public surveillance"
+      },
+      {
+        "source": "不能超过",
+        "target": "may not exceed"
+      },
+      {
+        "source": "三年",
+        "target": "three years"
+      },
+      {
+        "source": "拘役",
+        "target": "criminal detention"
+      },
+      {
+        "source": "一年",
+        "target": "one year"
+      },
+      {
+        "source": "有期徒刑",
+        "target": "fixed- term imprisonment"
+      },
+      {
+        "source": "二十年",
+        "target": "20 years"
+      }
+    ],
+    "sentence_id": 40,
+    "law": "中华人民共和国刑法",
+    "law_file": "Law_Corpus_Mainland_201_中华人民共和国刑法.json",
+    "record_id": 109,
+    "source_id": "刑法_C0138",
+    "target_ids": [
+      "刑法_E0138"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "对于被判处死刑缓期二年执行、无期徒刑、有期徒刑的罪犯，由公安机关依法将该罪犯送交监狱执行刑罚。",
+    "reference": "A criminal sentenced to death with a two-year suspension of execution, or life imprisonment, or fixed-term imprisonment shall, according to law, be handed over by a public security organ to a prison for execution of his criminal punishment.",
+    "target1": "For criminals sentenced to death with a two-year reprieve, life imprisonment, or fixed-term imprisonment, the public security organs shall hand over the criminal to the prison to execute the sentence in accordance with the law.",
+    "target2": "For criminals sentenced to death with a two-year reprieve, life imprisonment, or fixed-term imprisonment, the public security organs shall hand over such criminals to prisons for the execution of their sentences in accordance with the law.",
+    "target3": "For criminals sentenced to death with a two-year suspension of execution, life imprisonment, or fixed-term imprisonment, the public security organ shall hand over the criminal to the prison to execute his criminal punishment according to law.",
+    "google": "For criminals who are sentenced to death with a two-year suspension of execution, life imprisonment, or fixed-term imprisonment, the public security organs shall send the criminal to prison to execute the sentence in accordance with the law.",
+    "terms": [
+      {
+        "source": "判处",
+        "target": "sentenced"
+      },
+      {
+        "source": "死刑缓期二年执行",
+        "target": "death with a two-year suspension of execution"
+      },
+      {
+        "source": "无期徒刑",
+        "target": "life imprisonment"
+      },
+      {
+        "source": "有期徒刑",
+        "target": "fixed-term imprisonment"
+      },
+      {
+        "source": "罪犯",
+        "target": "criminal"
+      },
+      {
+        "source": "公安机关",
+        "target": "public security organ"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "送交",
+        "target": "handed over"
+      },
+      {
+        "source": "监狱",
+        "target": "prison"
+      },
+      {
+        "source": "执行刑罚",
+        "target": "execution of his criminal punishment"
+      }
+    ],
+    "sentence_id": 41,
+    "law": "中华人民共和国刑事诉讼法",
+    "law_file": "Law_Corpus_Mainland_202_中华人民共和国刑事诉讼法.json",
+    "record_id": 344,
+    "source_id": "刑事诉讼法c599",
+    "target_ids": [
+      "刑事诉讼法e599"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第七条公民、法人或者其他组织因违法受到行政处罚，其违法行为对他人造成损害的，应当依法承担民事责任。",
+    "reference": "Article 7 Citizens, legal persons and other organizations that are subjected to administrative penalty because of their violations of law shall, in accordance with law, bear civil liability for damage done to others by their illegal acts.",
+    "target1": "Article 7: Where a citizen, legal person, or other organization is subject to administrative punishment for violations of law and its illegal acts cause damage to others, it shall bear civil liability in accordance with the law.",
+    "target2": "Article 7 Where a citizen, legal person, or other organization is subject to administrative punishment for violations of law and its illegal acts cause damage to others, it shall bear civil liability in accordance with the law.",
+    "target3": "Article 7 Citizens, legal persons or other organizations subjected to administrative penalty for violations of law shall bear civil liability in accordance with law if their illegal acts caused damage done to others.",
+    "google": "Article 7 Citizens, legal persons or other organizations that are subject to administrative penalties for violating the law and whose illegal acts cause damage to others shall bear civil liability in accordance with the law.",
+    "terms": [
+      {
+        "source": "第七条",
+        "target": "Article 7"
+      },
+      {
+        "source": "公民",
+        "target": "Citizens"
+      },
+      {
+        "source": "法人",
+        "target": "legal persons"
+      },
+      {
+        "source": "其他组织",
+        "target": "other organizations"
+      },
+      {
+        "source": "违法",
+        "target": "violations of law"
+      },
+      {
+        "source": "受到",
+        "target": "subjected to"
+      },
+      {
+        "source": "行政处罚",
+        "target": "administrative penalty"
+      },
+      {
+        "source": "违法行为",
+        "target": "illegal acts"
+      },
+      {
+        "source": "他人",
+        "target": "others"
+      },
+      {
+        "source": "造成损害",
+        "target": "damage done"
+      },
+      {
+        "source": "应当",
+        "target": "shall"
+      },
+      {
+        "source": "依法",
+        "target": "in accordance with law"
+      },
+      {
+        "source": "承担",
+        "target": "bear"
+      },
+      {
+        "source": "民事责任",
+        "target": "civil liability"
+      }
+    ],
+    "sentence_id": 42,
+    "law": "中华人民共和国行政处罚法",
+    "law_file": "Law_Corpus_Mainland_203_中华人民共和国行政处罚法.json",
+    "record_id": 8,
+    "source_id": "行政处罚法c023",
+    "target_ids": [
+      "行政处罚法e023"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第六十六条 公民、法人或者其他组织对具体行政行为在法定期间不提起诉讼又不履行的，行政机关可以申请人民法院强制执行，或者依法强制执行。",
+    "reference": "Article 66 If a citizen, a legal person or any other organization, during the period prescribed by law, neither brings a suit nor carries out the specific administrative act, the administrative organ may apply to a people's court for compulsory execution, or proceed with compulsory execution according to law.",
+    "target1": "Article 66 Where a citizen, legal person, or other organization fails to initiate litigation within the statutory period for a specific administrative act and fails to perform it, the administrative organ may apply to the People's Court for compulsory enforcement or carry out compulsory enforcement in accordance with the law.",
+    "target2": "Article 66 Where a citizen, legal person, or other organization fails to initiate litigation within the statutory period or fails to perform a specific administrative act, the administrative organ may apply to the People's Court for compulsory enforcement or shall carry out compulsory enforcement in accordance with the law.",
+    "target3": "Article 66 If a citizen, legal person or other organization neither brings a suit nor carries out a specific administrative act within the period prescribed by law, the administrative organ may apply to the people's court for compulsory execution, or carry out compulsory execution according to law.",
+    "google": "Article 66: If a citizen, legal person or other organization fails to file a lawsuit or perform a specific administrative act within the statutory period, the administrative agency may apply to the People's Court for compulsory enforcement or enforce it in accordance with the law.",
+    "terms": [
+      {
+        "source": "第六十六条",
+        "target": "Article 66"
+      },
+      {
+        "source": "公民",
+        "target": "citizen"
+      },
+      {
+        "source": "法人",
+        "target": "legal person"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "其他组织",
+        "target": "other organization"
+      },
+      {
+        "source": "具体行政行为",
+        "target": "specific administrative act"
+      },
+      {
+        "source": "法定期间",
+        "target": "period prescribed by law"
+      },
+      {
+        "source": "提起诉讼",
+        "target": "brings a suit"
+      },
+      {
+        "source": "不履行",
+        "target": "nor carries out"
+      },
+      {
+        "source": "行政机关",
+        "target": "administrative organ"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "申请",
+        "target": "apply"
+      },
+      {
+        "source": "人民法院",
+        "target": "people's court"
+      },
+      {
+        "source": "强制执行",
+        "target": "compulsory execution"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      }
+    ],
+    "sentence_id": 43,
+    "law": "中华人民共和国行政诉讼法",
+    "law_file": "Law_Corpus_Mainland_206_中华人民共和国行政诉讼法.json",
+    "record_id": 109,
+    "source_id": "行政诉讼法c166",
+    "target_ids": [
+      "行政诉讼法e166"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第七条公民、法人或者其他组织对行政机关实施行政许可，享有陈述权、申辩权；有权依法申请行政复议或者提起行政诉讼；其合法权益因行政机关违法实施行政许可受到损害的，有权依法要求赔偿。",
+    "reference": "Article 7 With regard to an administrative organ's implementation of an administrative license, the citizens, legal person or other institutions shall be entitled to make statements, to defend themselves, to apply for administrative reconsideration or to file an administrative lawsuit in accordance with the law. Where any of their legal rights and interests is impaired because of the administrative organs' unlawful implementation of the administrative license, it shall be entitled to demand compensation in accordance with the law",
+    "target1": "Article 7 Citizens, legal persons, or other organizations shall enjoy the right to statement and defense when administrative organs implement administrative licensing; they have the right to apply for administrative reconsideration or initiate administrative litigation in accordance with the law; if their legitimate rights and interests are damaged due to the illegal implementation of administrative licensing by administrative organs, they have the right to request compensation in accordance with the law.",
+    "target2": "Article 7 Citizens, legal persons, or other organizations shall enjoy the right to statement and the right to defense when administrative organs implement administrative licensing; they have the right to apply for administrative reconsideration or initiate administrative litigation in accordance with the law; where their legitimate rights and interests are damaged due to the illegal implementation of administrative licensing by administrative organs, they have the right to request compensation in accordance with the law.",
+    "target3": "Article 7 Citizens, legal persons or other institutions entitled to make statements and defend themselves when administrative organs implement administrative licenses; they are entitled to apply for administrative reconsideration or file an administrative lawsuit in accordance with the law; if their legal rights and interests are impaired due to the unlawful implementation of administrative licenses by administrative organs, they are entitled to demand compensation in accordance with the law.",
+    "google": "Article 7 Citizens, legal persons or other organizations shall have the right to make statements and pleas when administrative licensing is implemented by administrative agencies; they shall have the right to apply for administrative reconsideration or initiate administrative litigation in accordance with the law; if their legitimate rights and interests are damaged due to the illegal implementation of administrative licensing by administrative agencies, they shall have the right to demand compensation in accordance with the law.",
+    "terms": [
+      {
+        "source": "第七条",
+        "target": "Article 7"
+      },
+      {
+        "source": "公民",
+        "target": "citizens"
+      },
+      {
+        "source": "法人",
+        "target": "legal person"
+      },
+      {
+        "source": "其他组织",
+        "target": "other institutions"
+      },
+      {
+        "source": "行政机关",
+        "target": "administrative organ"
+      },
+      {
+        "source": "实施",
+        "target": "implementation"
+      },
+      {
+        "source": "行政许可",
+        "target": "administrative license"
+      },
+      {
+        "source": "享有",
+        "target": "entitled"
+      },
+      {
+        "source": "陈述权",
+        "target": "make statements"
+      },
+      {
+        "source": "申辩权",
+        "target": "defend themselves"
+      },
+      {
+        "source": "有权",
+        "target": "entitled"
+      },
+      {
+        "source": "依法",
+        "target": "in accordance with the law"
+      },
+      {
+        "source": "申请",
+        "target": "apply"
+      },
+      {
+        "source": "行政复议",
+        "target": "administrative reconsideration"
+      },
+      {
+        "source": "提起",
+        "target": "file"
+      },
+      {
+        "source": "行政诉讼",
+        "target": "administrative lawsuit"
+      },
+      {
+        "source": "合法权益",
+        "target": "legal rights and interests"
+      },
+      {
+        "source": "违法",
+        "target": "unlawful"
+      },
+      {
+        "source": "受到损害",
+        "target": "impaired"
+      },
+      {
+        "source": "要求",
+        "target": "demand"
+      },
+      {
+        "source": "赔偿",
+        "target": "compensation"
+      }
+    ],
+    "sentence_id": 44,
+    "law": "中华人民共和国行政许可法",
+    "law_file": "Law_Corpus_Mainland_207_中华人民共和国行政许可法.json",
+    "record_id": 11,
+    "source_id": "行政许可法c016",
+    "target_ids": [
+      "行政许可法e016"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "（八）请求国根据缺席判决提出引渡请求的。但请求国承诺在引渡后对被请求引渡人给予在其出庭的情况下进行重新审判机会的除外。",
+    "reference": "(8)the request for extradition is made by the Requesting State on the basis of a judgement rendered by default, unless the Requesting State undertakes that the person sought has the opportunity to have the case retried under conditions of his presence.",
+    "target1": "(8) Where a requesting State makes a request for extradition based on a judgment in absentia, except where the requesting State undertakes to provide the person requested for extradition with an opportunity for a retrial in their presence after extradition.",
+    "target2": "(8) Cases in which the requesting State makes a request for extradition based on a judgment in absentia; provided, however, that this shall not apply where the requesting State undertakes to provide the requested person with an opportunity for a retrial in their presence after extradition.",
+    "target3": "(8) Requesting State made request for extradition on the basis of judgement rendered by default. Unless the Requesting State undertakes to give the person sought the opportunity to be retried in their presence after extradition.",
+    "google": "(8) The requesting country files an extradition request based on a default judgment. This is except where the requesting State undertakes to give the person sought an opportunity for a retrial after extradition in which he or she appears in court.",
+    "terms": [
+      {
+        "source": "（八）",
+        "target": "(8)"
+      },
+      {
+        "source": "请求国",
+        "target": "Requesting State"
+      },
+      {
+        "source": "根据",
+        "target": "on the basis of"
+      },
+      {
+        "source": "缺席判决",
+        "target": "judgement rendered by default"
+      },
+      {
+        "source": "提出",
+        "target": "made"
+      },
+      {
+        "source": "引渡请求",
+        "target": "request for extradition"
+      },
+      {
+        "source": "承诺",
+        "target": "undertakes"
+      },
+      {
+        "source": "被请求引渡人",
+        "target": "person sought"
+      },
+      {
+        "source": "出庭",
+        "target": "presence"
+      },
+      {
+        "source": "重新审判",
+        "target": "retried"
+      },
+      {
+        "source": "机会",
+        "target": "opportunity"
+      },
+      {
+        "source": "除外",
+        "target": "unless"
+      }
+    ],
+    "sentence_id": 45,
+    "law": "中华人民共和国引渡法",
+    "law_file": "Law_Corpus_Mainland_212_中华人民共和国引渡法.json",
+    "record_id": 9,
+    "source_id": "引渡法c045",
+    "target_ids": [
+      "引渡法e045"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第五十四条 投标人以他人名义投标或者以其他方式弄虚作假，骗取中标的，中标无效，给招标人造成损失的，依法承担赔偿责任；构成犯罪的，依法追究刑事责任。",
+    "reference": "Article 54 If a bidder submits his bid in the name of another person or resorts to deception to win the bid, his winning of the bid shall be void and invalid, if a loss is caused to the tenderer, the said bidder shall be liable therefor according to law; and if a crime is constituted, criminal responsibility shall be demanded for according to law.",
+    "target1": "Article 54: If a bidder bids in the name of others or otherwise commits fraud to obtain a winning bid, the winning bid shall be invalid; if losses are caused to the tenderer, the bidder shall bear liability for compensation in accordance with the law; if it constitutes a crime, criminal responsibility shall be pursued in accordance with the law.",
+    "target2": "Article 54: Where a bidder bids in the name of others or otherwise commits fraud to obtain a winning bid, the winning bid shall be invalid; if losses are caused to the tenderer, the bidder shall bear liability for compensation in accordance with the law; where such acts constitute a crime, criminal responsibility shall be pursued in accordance with the law.",
+    "target3": "Article 54 If a bidder submits his bid in the name of another person or by other means of deception to defraud and win the bid, the winning bid shall be void and invalid; if loss is caused to the tenderer, the bidder shall be liable therefor according to law; if a crime is constituted, criminal responsibility shall be demanded according to law.",
+    "google": "Article 54 If a bidder bids in the name of another person or uses other methods to cheat and win the bid, the bid will be invalid and the bidder will be liable for compensation in accordance with the law; if a crime is constituted, criminal responsibility will be pursued in accordance with the law.",
+    "terms": [
+      {
+        "source": "第五十四条",
+        "target": "Article 54"
+      },
+      {
+        "source": "投标人",
+        "target": "bidder"
+      },
+      {
+        "source": "投标",
+        "target": "submits his bid"
+      },
+      {
+        "source": "他人",
+        "target": "another person"
+      },
+      {
+        "source": "名义",
+        "target": "in the name of"
+      },
+      {
+        "source": "弄虚作假",
+        "target": "deception"
+      },
+      {
+        "source": "中标",
+        "target": "win the bid"
+      },
+      {
+        "source": "中标无效",
+        "target": "void and invalid"
+      },
+      {
+        "source": "招标人",
+        "target": "tenderer"
+      },
+      {
+        "source": "造成损失",
+        "target": "loss is caused"
+      },
+      {
+        "source": "依法",
+        "target": "according to law"
+      },
+      {
+        "source": "承担赔偿责任",
+        "target": "liable therefor"
+      },
+      {
+        "source": "构成犯罪",
+        "target": "crime is constituted"
+      },
+      {
+        "source": "追究刑事责任",
+        "target": "criminal responsibility shall be demanded"
+      }
+    ],
+    "sentence_id": 46,
+    "law": "中华人民共和国招标投标法",
+    "law_file": "Law_Corpus_Mainland_219_中华人民共和国招标投标法.json",
+    "record_id": 118,
+    "source_id": "招标投标法C137",
+    "target_ids": [
+      "招标投标法E137"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第一百四十九条　国务院证券监督管理机构认为有必要时，可以委托会计师事务所、资产评估机构对证券公司的财务状况、内部控制状况、资产价值进行审计或者评估。具体办法由国务院证券监督管理机构会同有关主管部门制定。",
+    "reference": "Article 149 The securities regulatory authority under the State Council may, when believing it requires so, entrust an accounting firm or an asset appraisal institution to carry out an auditing or appraisal on the financial status, internal control as well as asset value of a securities company. The specific measures thereof shall be formulated by the securities regulatory authority under the State Council in collaboration with the relevant administrative departments.",
+    "target1": "Article 149 Where the securities regulatory authority of the State Council deems it necessary, it may entrust accounting firms or asset appraisal institutions to conduct audits or appraisals on the financial status, internal control status, and asset value of securities companies. Specific measures shall be formulated by the securities regulatory authority of the State Council in conjunction with relevant competent departments.",
+    "target2": "Article 149 Where the securities regulatory authority of the State Council deems it necessary, it may entrust accounting firms or asset appraisal institutions to conduct audits or appraisals on the financial status, internal control status, and asset value of securities companies. Specific measures shall be formulated by the securities regulatory authority of the State Council in conjunction with relevant competent departments.",
+    "target3": "Article 149 When the securities regulatory authority under the State Council believes it is necessary, it may entrust accounting firms or asset appraisal institutions to conduct auditing or appraisal of the financial status, internal control status, and asset value of securities companies. Specific measures shall be formulated by the securities regulatory authority under the State Council in collaboration with relevant administrative departments.",
+    "google": "Article 149: When the securities regulatory authority of the State Council deems it necessary, it may entrust accounting firms and asset appraisal agencies to audit or evaluate the financial status, internal control status, and asset values ​​of securities companies. Specific measures shall be formulated by the securities regulatory authority of the State Council in conjunction with relevant competent authorities.",
+    "terms": [
+      {
+        "source": "第一百四十九条",
+        "target": "Article 149"
+      },
+      {
+        "source": "国务院证券监督管理机构",
+        "target": "securities regulatory authority under the State Council"
+      },
+      {
+        "source": "认为",
+        "target": "believing"
+      },
+      {
+        "source": "有必要时",
+        "target": "when"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "委托",
+        "target": "entrust"
+      },
+      {
+        "source": "会计师事务所",
+        "target": "accounting firm"
+      },
+      {
+        "source": "资产评估机构",
+        "target": "asset appraisal institution"
+      },
+      {
+        "source": "评估",
+        "target": "appraisal"
+      },
+      {
+        "source": "证券公司",
+        "target": "securities company"
+      },
+      {
+        "source": "财务状况",
+        "target": "financial status"
+      },
+      {
+        "source": "内部控制",
+        "target": "internal control"
+      },
+      {
+        "source": "资产价值",
+        "target": "asset value"
+      },
+      {
+        "source": "审计",
+        "target": "auditing"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "具体办法",
+        "target": "specific measures"
+      },
+      {
+        "source": "会同",
+        "target": "in collaboration with"
+      },
+      {
+        "source": "有关",
+        "target": "relevant"
+      },
+      {
+        "source": "主管部门",
+        "target": "administrative departments"
+      },
+      {
+        "source": "制定",
+        "target": "formulated"
+      }
+    ],
+    "sentence_id": 47,
+    "law": "中华人民共和国证券法_2005",
+    "law_file": "Law_Corpus_Mainland_220_中华人民共和国证券法_2005.json",
+    "record_id": 152,
+    "source_id": "证券法C321",
+    "target_ids": [
+      "证券法E321"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第十三条 合营企业如发生严重亏损、一方不履行合同和章程规定的义务、不可抗力等，经合营各方协商同意，报请审查批准机关批准，并向国家工商行政管理主管部门登记，可终止合同。",
+    "reference": "Article 13 If there occur heavy losses, the failure of a party to perform its obligations under the contract and the articles of association or force majeure, etc., the equity joint venture may terminate the contract through consultation and agreement by the parties, and subject to approval by the examination and approval authority and to registration with the States Competent Department of Industry and Commerce Administration.",
+    "target1": "Article 13 If the joint venture suffers serious losses, a party fails to perform its obligations stipulated in the contract and articles of association, or occurs due to force majeure, the contract may be terminated upon consultation and agreement by all parties of the joint venture, submission for approval by the review and approval authority, and registration with the national industrial and commercial administration department.",
+    "target2": "Article 13 If the joint venture enterprise suffers serious losses, a party fails to perform its obligations stipulated in the contract and the articles of association, or occurs due to force majeure, the contract may be terminated upon the consensus of all parties to the joint venture, subject to approval by the review and approval authority and registration with the national industrial and commercial administration department.",
+    "target3": "Article 13 If the equity joint venture suffers heavy losses, a party fails to perform the obligations stipulated in the contract and articles of association, or due to force majeure etc., the parties may terminate the contract upon consultation and agreement of the parties, submission to the examination and approval authority for approval, and registration with the States Competent Department of Industry and Commerce Administration.",
+    "google": "Article 13 If a joint venture suffers serious losses, one party fails to perform its obligations stipulated in the contract and articles of association, or force majeure occurs, the contract may be terminated with the agreement of all parties to the joint venture, approval by the review and approval authority, and registration with the national industrial and commercial administration department.",
+    "terms": [
+      {
+        "source": "第十三条",
+        "target": "Article 13"
+      },
+      {
+        "source": "合营企业",
+        "target": "equity joint venture"
+      },
+      {
+        "source": "严重亏损",
+        "target": "heavy losses"
+      },
+      {
+        "source": "一方",
+        "target": "a party"
+      },
+      {
+        "source": "不履行",
+        "target": "failure"
+      },
+      {
+        "source": "合同",
+        "target": "contract"
+      },
+      {
+        "source": "章程",
+        "target": "articles of association"
+      },
+      {
+        "source": "义务",
+        "target": "obligations"
+      },
+      {
+        "source": "不可抗力",
+        "target": "force majeure"
+      },
+      {
+        "source": "可",
+        "target": "may"
+      },
+      {
+        "source": "等",
+        "target": "etc."
+      },
+      {
+        "source": "合营各方",
+        "target": "parties"
+      },
+      {
+        "source": "协商",
+        "target": "consultation"
+      },
+      {
+        "source": "同意",
+        "target": "agreement"
+      },
+      {
+        "source": "审查批准机关",
+        "target": "examination and approval authority"
+      },
+      {
+        "source": "批准",
+        "target": "approval"
+      },
+      {
+        "source": "国家工商行政管理主管部门",
+        "target": "States Competent Department of Industry and Commerce Administration"
+      },
+      {
+        "source": "登记",
+        "target": "registration"
+      },
+      {
+        "source": "终止合同",
+        "target": "terminate the contract"
+      }
+    ],
+    "sentence_id": 48,
+    "law": "中华人民共和国中外合资经营企业法",
+    "law_file": "Law_Corpus_Mainland_226_中华人民共和国中外合资经营企业法.json",
+    "record_id": 35,
+    "source_id": "中外合营企C036",
+    "target_ids": [
+      "中外合营企E036"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "裁决被人民法院依法裁定撤销或者不予执行的，当事人就该纠纷可以根据双方重新达成的仲裁协议申请仲裁，也可以向人民法院起诉。",
+    "reference": "If the arbitration award is canceled or its enforcement has been disallowed by a people's court in accordance with the law, the parties may, in accordance with a new arbitration agreement between them in respect of the dispute, re-apply for arbitration or initiate legal proceedings with the people's court.",
+    "target1": "Where an award is revoked or not executed by a people's court in accordance with the law, the parties may apply for arbitration based on a newly reached arbitration agreement regarding the dispute, or they may file a lawsuit with a people's court.",
+    "target2": "Where an award is revoked or not executed by a People's Court in accordance with the law, the parties may apply for arbitration regarding the dispute based on a newly reached arbitration agreement between the parties, or they may initiate litigation in a People's Court.",
+    "target3": "If an arbitration award is canceled or enforcement has been disallowed by the people's court in accordance with the law, the parties may re-apply for arbitration in accordance with a new arbitration agreement reached by both parties, or initiate legal proceedings with the people's court.",
+    "google": "If the award is revoked or not enforced by the people's court in accordance with the law, the parties concerned may apply for arbitration based on the arbitration agreement re-reached by the two parties, or they may bring a lawsuit to the people's court.",
+    "terms": [
+      {
+        "source": "裁决",
+        "target": "arbitration award"
+      },
+      {
+        "source": "人民法院",
+        "target": "people's court"
+      },
+      {
+        "source": "依法",
+        "target": "in accordance with the law"
+      },
+      {
+        "source": "撤销",
+        "target": "canceled"
+      },
+      {
+        "source": "或者",
+        "target": "or"
+      },
+      {
+        "source": "不予执行",
+        "target": "enforcement has been disallowed"
+      },
+      {
+        "source": "当事人",
+        "target": "parties"
+      },
+      {
+        "source": "纠纷",
+        "target": "dispute"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "根据",
+        "target": "in accordance with"
+      },
+      {
+        "source": "重新达成",
+        "target": "new"
+      },
+      {
+        "source": "仲裁协议",
+        "target": "arbitration agreement"
+      },
+      {
+        "source": "申请仲裁",
+        "target": "re-apply for arbitration"
+      },
+      {
+        "source": "起诉",
+        "target": "initiate legal proceedings"
+      }
+    ],
+    "sentence_id": 49,
+    "law": "中华人民共和国仲裁法",
+    "law_file": "Law_Corpus_Mainland_229_中华人民共和国仲裁法.json",
+    "record_id": 11,
+    "source_id": "仲裁法C015",
+    "target_ids": [
+      "仲裁法E015"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "第十七条 受委托创作的作品，著作权的归属由委托人和受托人通过合同约定。合同未作明确约定或者没有订立合同的，著作权属于受托人。",
+    "reference": "Article 17 The ownership of copyright in a commissioned work shall be agreed upon in a contract between the commissioning and the commissioned parties. In the absence of a contract or of an explicit agreement in the contract, the copyright in such a work shall belong to the commissioned party.",
+    "target1": "Article 17 The ownership of the copyright for works commissioned shall be agreed upon by the entrusting party and the entrusted party through a contract. If there is no clear agreement in the contract or if no contract is established, the copyright shall belong to the entrusted party.",
+    "target2": "Article 17 The ownership of copyrights for works commissioned shall be agreed upon by the principal and the trustee through a contract. In the absence of an express agreement in the contract or if no contract is established, the copyright shall belong to the trustee.",
+    "target3": "Article 17 The ownership of copyright for commissioned work shall be agreed upon by the commissioning and the commissioned party through a contract. In the absence of an explicit agreement in the contract or in the absence of a contract, the copyright shall belong to the commissioned party.",
+    "google": "Article 17 For works created on commission, the ownership of the copyright shall be agreed upon by the client and the trustee through a contract. If there is no express agreement in the contract or no contract has been concluded, the copyright belongs to the trustee.",
+    "terms": [
+      {
+        "source": "第十七条",
+        "target": "Article 17"
+      },
+      {
+        "source": "受委托创作的作品",
+        "target": "commissioned work"
+      },
+      {
+        "source": "著作权",
+        "target": "copyright"
+      },
+      {
+        "source": "归属",
+        "target": "ownership"
+      },
+      {
+        "source": "委托人",
+        "target": "commissioning"
+      },
+      {
+        "source": "受托人",
+        "target": "commissioned party"
+      },
+      {
+        "source": "合同",
+        "target": "contract"
+      },
+      {
+        "source": "约定",
+        "target": "agreed upon"
+      },
+      {
+        "source": "明确约定",
+        "target": "explicit agreement"
+      },
+      {
+        "source": "没有订立合同",
+        "target": "absence of a contract"
+      },
+      {
+        "source": "属于",
+        "target": "belong to"
+      }
+    ],
+    "sentence_id": 50,
+    "law": "中华人民共和国著作权法",
+    "law_file": "Law_Corpus_Mainland_231_中华人民共和国著作权法.json",
+    "record_id": 23,
+    "source_id": "著作权法C048",
+    "target_ids": [
+      "著作权法E048"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  },
+  {
+    "source": "进行处理的管理专利工作的部门应当事人的请求，可以就侵犯专利权的赔偿数额进行调解；调解不成的，当事人可以依照《中华人民共和国民事诉讼法》向人民法院起诉。",
+    "reference": "The said authority handling the matter may, upon the request of the parties, mediate in the amount of compensation for the damage caused by the infringement of the patent right. If the mediation fails, the parties may institute legal proceedings in the people's court in accordance with the Civil Procedure Law of the People's Republic of China.",
+    "target1": "The department handling the management of patents shall, upon request by the parties, conduct mediation regarding the amount of compensation for patent infringement; if mediation fails, the parties may file a lawsuit with the People's Court in accordance with the Civil Procedure Law of the People's Republic of China.",
+    "target2": "The department responsible for handling the administrative patent work may, upon request of the parties, conduct mediation regarding the amount of compensation for patent infringement; if mediation fails, the parties may initiate litigation in a people's court in accordance with the Civil Procedure Law of the People's Republic of China.",
+    "target3": "The authority handling the matter shall, upon the request of the parties, mediate the amount of compensation for infringement of the patent right; if mediation fails, the parties may institute legal proceedings with the people's court in accordance with the Civil Procedure Law of the People's Republic of China.",
+    "google": "At the request of the parties, the handling patent management department may mediate the amount of compensation for patent infringement; if mediation fails, the parties may file a lawsuit in the People's Court in accordance with the Civil Procedure Law of the People's Republic of China.",
+    "terms": [
+      {
+        "source": "进行处理的管理专利工作的部门",
+        "target": "said authority handling the matter"
+      },
+      {
+        "source": "当事人",
+        "target": "parties"
+      },
+      {
+        "source": "请求",
+        "target": "request"
+      },
+      {
+        "source": "可以",
+        "target": "may"
+      },
+      {
+        "source": "侵犯专利权",
+        "target": "infringement of the patent right"
+      },
+      {
+        "source": "赔偿数额",
+        "target": "amount of compensation"
+      },
+      {
+        "source": "调解",
+        "target": "mediate"
+      },
+      {
+        "source": "调解不成",
+        "target": "mediation fails"
+      },
+      {
+        "source": "依照",
+        "target": "in accordance with"
+      },
+      {
+        "source": "中华人民共和国",
+        "target": "People's Republic of China"
+      },
+      {
+        "source": "民事诉讼法",
+        "target": "Civil Procedure Law"
+      },
+      {
+        "source": "人民法院",
+        "target": "people's court"
+      },
+      {
+        "source": "起诉",
+        "target": "institute legal proceedings"
+      }
+    ],
+    "sentence_id": 51,
+    "law": "中华人民共和国专利法",
+    "law_file": "Law_Corpus_Mainland_233_中华人民共和国专利法.json",
+    "record_id": 106,
+    "source_id": "专利法C142",
+    "target_ids": [
+      "专利法E142"
+    ],
+    "checks": {
+      "target1": [],
+      "target2": [],
+      "target3": []
+    }
+  }
+]
